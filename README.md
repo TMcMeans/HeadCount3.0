@@ -25,6 +25,15 @@ You can begin running your tests with `npm test`
 * Use propTypes to validate props passed to each component.
 * Write meaningful, comprehensive unit and integration tests.
 
+## Testing
+
+You may find the testing utilitiy Enzyme helpful for this project. To use it to your project, check out the following
+documentation:
+
+[create-react-app
+setupTests.js](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#initializing-test-environment)
+[initializing the enzyme adapter](http://airbnb.io/enzyme/docs/installation/react-15.html)
+
 ## Project Requirements
 
 This project is broken out into multiple iterations. You are expected to complete all required iterations for a passing score, additional extensions are provided to push your comfort level.  
@@ -83,7 +92,7 @@ Now that you have manipulated the data, it's time to build out the front end to 
 
 As you look into each district, the data points should meet the following criteria:  
 
-* All data should be rounded to the nearest hundredth (ie: .001).
+* All data should be rounded to the nearest hundredth (ie: .01).
 * All data should have a *visual indication* of if the data is above or below `0.5`. The provided comp below uses red and green colors to indicate the difference as an example, but you should tap into your front-end-developer design skills and come up with a better way to indicate those values.   
 
 ![Iteration 2 Comp Screen Shot](http://i.imgur.com/GzhO2EO.png)  
