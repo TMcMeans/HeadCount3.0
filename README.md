@@ -31,8 +31,8 @@ You may find the testing utilitiy Enzyme helpful for this project. To use it to 
 documentation:
 
 [create-react-app
-setupTests.js](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#initializing-test-environment)
-[initializing the enzyme adapter](http://airbnb.io/enzyme/docs/installation/react-15.html)
+setupTests.js](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#initializing-test-environment)  
+[initializing the enzyme adapter](http://airbnb.io/enzyme/docs/installation/react-15.html)  
 
 ## Project Requirements
 
