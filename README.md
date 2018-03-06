@@ -51,13 +51,13 @@ This project is broken out into multiple iterations. You are expected to complet
 **Notes on the District Repository**  
 As an example, take a minute to look at the `kindergartners_in_full_day_program.js` data file.  
 
-The `DistrictRepository` helper class you create will be responsible for holding data pertaining to each educational district. Off the bat, it should contain a `.data` method that returns the information pertaining to to that file:  
+The `DistrictRepository` helper class you create will be responsible for holding data pertaining to each educational district. Off the bat, it should contain a `.stats` method that returns the information pertaining to to that file:  
 
 Example:  
 
 ```javascript
   const district = new DistrictRepository(data);
-  district.data // =>s an object or an array depending on how you want to sort your data that pulls in the information from this given file.
+  district.stats // =>s an object or an array depending on how you want to sort your data that pulls in the information from this given file.
 ```
 #### Iteration 1 - Finding Data
 Here we will solve the problem of finding singular or multiple data points.  
