@@ -92,7 +92,7 @@ Now that you have manipulated the data, it's time to build out the front end to 
 
 As you look into each district, the data points should meet the following criteria:  
 
-* All data should be rounded to the nearest hundredth (ie: .01).
+* All data should be rounded to the nearest thousandth (ie: .012).
 * All data should have a *visual indication* of if the data is above or below `0.5`. The provided comp below uses red and green colors to indicate the difference as an example, but you should tap into your front-end-developer design skills and come up with a better way to indicate those values.   
 
 ![Iteration 2 Comp Screen Shot](http://i.imgur.com/GzhO2EO.png)  
