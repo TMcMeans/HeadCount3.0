@@ -1,11 +1,12 @@
 import DistrictRepository from '../../helper.js';
 import kinderData from '../../data/kindergartners_in_full_day_program.js';
 
-describe('DistrictRepository iteration 0', () =>  {
+describe('DistrictRepository iteration 0', () => {
   const district = new DistrictRepository(kinderData);
 
   test('district has data in an object', () => {
     // remember that an array is also just an object.
+    // console.log(district);
     expect(typeof district.stats).toBe('object');
   });
 
@@ -14,5 +15,4 @@ describe('DistrictRepository iteration 0', () =>  {
     // expect(district.stats.length).toBe(181);
     expect(Object.keys(district.stats).length).toBe(181);
   });
-
 });
