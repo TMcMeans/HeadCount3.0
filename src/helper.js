@@ -11,4 +11,14 @@ export default class DistrictRepository {
       return schoolDistricts;
     }, []);
   }
+
+  findByName = schoolName => {
+    if (!schoolName) {
+      return undefined;
+    }
+    const name = schoolName.toUpperCase();
+    if (this.stats[name]) {
+      return { location: name, stats: { ...this.stats[name] } };
+    }
+  };
 }
