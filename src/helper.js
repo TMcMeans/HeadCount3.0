@@ -27,4 +27,19 @@ export default class DistrictRepository {
       return { location: name, stats: { ...this.stats[name] } };
     }
   };
+
+  findAllMatches = school => {
+    const schoolNames = Object.keys(this.stats);
+    if (!school) {
+      return schoolNames.map(school => {
+        return { location: school, stats: this.stats[school] };
+      });
+    }
+    const uppercaseName = school.toUpperCase();
+    const matchingSchools = schoolNames.filter(school => {
+      return school.includes(uppercaseName);
+    });
+    console.log(matchingSchools);
+    return matchingSchools;
+  };
 }
