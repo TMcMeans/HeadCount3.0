@@ -5,24 +5,22 @@ import './App.css';
 import DistrictRepository from './helper.js';
 import { CardContainer } from './components/CardContainer';
 
-const repository = new DistrictRepository(kinderData);
-
 class App extends Component {
   constructor() {
     super();
     this.state = {
-      respository: new DistrictRepository(kinderData)
+      repository: new DistrictRepository(kinderData)
     };
   }
 
   componentDidMount = () => {};
 
   render() {
-    const { stats } = this.state.respository;
+    const { findAllMatches } = this.state.repository;
     return (
       <div>
         <h1>Welcome to HeadCount 3.0</h1>
-        <CardContainer />
+        <CardContainer findAllMatches={findAllMatches} />
       </div>
     );
   }
