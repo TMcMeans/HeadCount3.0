@@ -39,7 +39,6 @@ export default class DistrictRepository {
     const matchingSchools = schoolNames.filter(school => {
       return school.includes(uppercaseName);
     });
-    console.log(matchingSchools);
     return matchingSchools;
   };
 }
