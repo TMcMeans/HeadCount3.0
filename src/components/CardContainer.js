@@ -8,12 +8,7 @@ export const CardContainer = ({ findAllMatches }) => {
   const schoolCards = schoolData.map(school => (
     <Card {...school} key={Math.random()} />
   ));
-  return (
-    <div>
-      <h1>Schools</h1>
-      {schoolCards}
-    </div>
-  );
+  return <div>{schoolCards}</div>;
 };
 
 CardContainer.propTypes = {
