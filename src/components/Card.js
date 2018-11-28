@@ -4,10 +4,10 @@ import PropTypes from 'prop-types';
 import './Card.css';
 
 export const Card = ({ location, stats }) => {
-  const data = Object.values(stats);
+  const data = Object.entries(stats);
   const dataGroup = data.map(datapoint => (
     <li className={datapoint > 0.5 ? 'green' : 'red'} key={Math.random()}>
-      {datapoint}
+      {datapoint[0]}: {datapoint[1]}
     </li>
   ));
   return (
