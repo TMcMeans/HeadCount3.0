@@ -22,13 +22,27 @@ class App extends Component {
 
   render() {
     const { findAllMatches } = this.state.repository;
-    return (
-      <div>
-        <h1>Welcome to HeadCount 3.0</h1>
-        <SearchInput filterCards={this.filterCards} />
-        <CardContainer findAllMatches={findAllMatches} />
-      </div>
-    );
+    const { inputSearchName } = this.state;
+
+    if (inputSearchName.length > 2) {
+      return (
+        <div>
+          <h1>Welcome to HeadCount 3.0</h1>
+          <SearchInput filterCards={this.filterCards} />
+          <CardContainer
+            findAllMatches={() => findAllMatches(inputSearchName)}
+          />
+        </div>
+      );
+    } else {
+      return (
+        <div>
+          <h1>Welcome to HeadCount 3.0</h1>
+          <SearchInput filterCards={this.filterCards} />
+          <CardContainer findAllMatches={findAllMatches} />
+        </div>
+      );
+    }
   }
 }
 

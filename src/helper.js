@@ -39,6 +39,16 @@ export default class DistrictRepository {
     const matchingSchools = schoolNames.filter(school => {
       return school.includes(uppercaseName);
     });
-    return matchingSchools;
+
+    const matchedData = matchingSchools.reduce((matchedData, school) => {
+      const dataObj = {
+        location: school,
+        stats: this.stats[school]
+      };
+      matchedData.push(dataObj);
+      return matchedData;
+    }, []);
+
+    return matchedData;
   };
 }
