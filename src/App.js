@@ -38,8 +38,8 @@ class App extends Component {
   };
 
   render() {
-    const { findAllMatches } = this.state.repository;
-    const { inputSearchName } = this.state;
+    const { findAllMatches, compareDistrictAverages } = this.state.repository;
+    const { inputSearchName, compareSchoolSelections } = this.state;
 
     if (inputSearchName.length > 1) {
       return (
@@ -56,7 +56,11 @@ class App extends Component {
         <div>
           <h1>Welcome to HeadCount 3.0</h1>
           <SearchInput filterCards={this.filterCards} />
-          <CompareCardContainer />
+          <CompareCardContainer
+            compareDistrictAverages={compareDistrictAverages}
+            compareSchoolSelections={compareSchoolSelections}
+            findAllMatches={findAllMatches}
+          />
           <CardContainer
             findAllMatches={findAllMatches}
             handleCompareSelections={this.handleCompareSelections}
