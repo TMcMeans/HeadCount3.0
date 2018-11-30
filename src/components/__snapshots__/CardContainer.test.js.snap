@@ -3284,7 +3284,7 @@ ShallowWrapper {
     "rendered": Array [
       Object {
         "instance": null,
-        "key": "0.9843806687378311",
+        "key": "0.5053516539166767",
         "nodeType": "function",
         "props": Object {
           "location": "COLORADO",
@@ -3308,7 +3308,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.4628078897339265",
+        "key": "0.37871989580630494",
         "nodeType": "function",
         "props": Object {
           "location": "ACADEMY 20",
@@ -3332,7 +3332,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.19970885085510726",
+        "key": "0.26993523344749026",
         "nodeType": "function",
         "props": Object {
           "location": "ADAMS COUNTY 14",
@@ -3356,7 +3356,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.41990969479398554",
+        "key": "0.18812921105381886",
         "nodeType": "function",
         "props": Object {
           "location": "ADAMS-ARAPAHOE 28J",
@@ -3380,7 +3380,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.9461211306720023",
+        "key": "0.8936115398541447",
         "nodeType": "function",
         "props": Object {
           "location": "AGATE 300",
@@ -3404,7 +3404,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.4422222300010148",
+        "key": "0.20082908906096342",
         "nodeType": "function",
         "props": Object {
           "location": "AGUILAR REORGANIZED 6",
@@ -3428,7 +3428,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.005155504874158501",
+        "key": "0.15161882083422218",
         "nodeType": "function",
         "props": Object {
           "location": "AKRON R-1",
@@ -3452,7 +3452,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.9846649896071975",
+        "key": "0.5644344824171212",
         "nodeType": "function",
         "props": Object {
           "location": "ALAMOSA RE-11J",
@@ -3476,7 +3476,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.2753133395125267",
+        "key": "0.9128642647128686",
         "nodeType": "function",
         "props": Object {
           "location": "ARCHULETA COUNTY 50 JT",
@@ -3500,7 +3500,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.25648593351080784",
+        "key": "0.7775421662008852",
         "nodeType": "function",
         "props": Object {
           "location": "ARICKAREE R-2",
@@ -3524,7 +3524,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.359132095290319",
+        "key": "0.7451488527058545",
         "nodeType": "function",
         "props": Object {
           "location": "ARRIBA-FLAGLER C-20",
@@ -3548,7 +3548,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.03980112625004839",
+        "key": "0.9265500968139484",
         "nodeType": "function",
         "props": Object {
           "location": "ASPEN 1",
@@ -3572,7 +3572,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.15752416596622232",
+        "key": "0.4200992883899668",
         "nodeType": "function",
         "props": Object {
           "location": "AULT-HIGHLAND RE-9",
@@ -3596,7 +3596,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.7834651641842925",
+        "key": "0.4152260894976403",
         "nodeType": "function",
         "props": Object {
           "location": "BAYFIELD 10 JT-R",
@@ -3620,7 +3620,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.7537959652427375",
+        "key": "0.20848620545385455",
         "nodeType": "function",
         "props": Object {
           "location": "BENNETT 29J",
@@ -3644,7 +3644,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.2309867378114583",
+        "key": "0.5944004443000823",
         "nodeType": "function",
         "props": Object {
           "location": "BETHUNE R-5",
@@ -3668,7 +3668,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.5467514313655468",
+        "key": "0.6899245625129933",
         "nodeType": "function",
         "props": Object {
           "location": "BIG SANDY 100J",
@@ -3692,7 +3692,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.5770082902134861",
+        "key": "0.4908495108393769",
         "nodeType": "function",
         "props": Object {
           "location": "BOULDER VALLEY RE 2",
@@ -3716,7 +3716,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.35835855921740634",
+        "key": "0.44344715533866097",
         "nodeType": "function",
         "props": Object {
           "location": "BRANSON REORGANIZED 82",
@@ -3740,7 +3740,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.5996808918656316",
+        "key": "0.27166767895149135",
         "nodeType": "function",
         "props": Object {
           "location": "BRIGGSDALE RE-10",
@@ -3764,7 +3764,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.2509245896327976",
+        "key": "0.8856960599039836",
         "nodeType": "function",
         "props": Object {
           "location": "BRIGHTON 27J",
@@ -3788,7 +3788,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.9696740733212614",
+        "key": "0.6047916414256742",
         "nodeType": "function",
         "props": Object {
           "location": "BRUSH RE-2(J)",
@@ -3812,7 +3812,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.705759656994918",
+        "key": "0.28648331068647703",
         "nodeType": "function",
         "props": Object {
           "location": "BUENA VISTA R-31",
@@ -3836,7 +3836,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.2597372062699508",
+        "key": "0.6726459254653914",
         "nodeType": "function",
         "props": Object {
           "location": "BUFFALO RE-4",
@@ -3860,7 +3860,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.36632861843084763",
+        "key": "0.8996639892286855",
         "nodeType": "function",
         "props": Object {
           "location": "BURLINGTON RE-6J",
@@ -3884,7 +3884,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.9108362451641694",
+        "key": "0.16477943103354065",
         "nodeType": "function",
         "props": Object {
           "location": "BYERS 32J",
@@ -3908,7 +3908,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.16745235093933486",
+        "key": "0.7268615521893353",
         "nodeType": "function",
         "props": Object {
           "location": "CALHAN RJ-1",
@@ -3932,7 +3932,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.07272373946901012",
+        "key": "0.20059953167027023",
         "nodeType": "function",
         "props": Object {
           "location": "CAMPO RE-6",
@@ -3956,7 +3956,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.6067635628907628",
+        "key": "0.9328859402171994",
         "nodeType": "function",
         "props": Object {
           "location": "CANON CITY RE-1",
@@ -3980,7 +3980,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.8302685542509851",
+        "key": "0.49886384179870014",
         "nodeType": "function",
         "props": Object {
           "location": "CENTENNIAL R-1",
@@ -4004,7 +4004,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.7373827118007761",
+        "key": "0.737029770247599",
         "nodeType": "function",
         "props": Object {
           "location": "CENTER 26 JT",
@@ -4028,7 +4028,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.5019796986311482",
+        "key": "0.008657780200311604",
         "nodeType": "function",
         "props": Object {
           "location": "CHERAW 31",
@@ -4052,7 +4052,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.8938885754157502",
+        "key": "0.05645266541450367",
         "nodeType": "function",
         "props": Object {
           "location": "CHERRY CREEK 5",
@@ -4076,7 +4076,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.8372832178381309",
+        "key": "0.6587204193206238",
         "nodeType": "function",
         "props": Object {
           "location": "CHEYENNE COUNTY RE-5",
@@ -4100,7 +4100,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.9870250424604834",
+        "key": "0.009582199182155637",
         "nodeType": "function",
         "props": Object {
           "location": "CHEYENNE MOUNTAIN 12",
@@ -4124,7 +4124,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.6268975134185009",
+        "key": "0.2697019751821279",
         "nodeType": "function",
         "props": Object {
           "location": "CLEAR CREEK RE-1",
@@ -4148,7 +4148,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.6183075921064458",
+        "key": "0.8599643647418318",
         "nodeType": "function",
         "props": Object {
           "location": "COLORADO SPRINGS 11",
@@ -4172,7 +4172,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.9204599942258114",
+        "key": "0.510548762029331",
         "nodeType": "function",
         "props": Object {
           "location": "COTOPAXI RE-3",
@@ -4196,7 +4196,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.2845777275418937",
+        "key": "0.8639957635324305",
         "nodeType": "function",
         "props": Object {
           "location": "CREEDE CONSOLIDATED 1",
@@ -4220,7 +4220,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.017650087393278335",
+        "key": "0.06463310609354411",
         "nodeType": "function",
         "props": Object {
           "location": "CRIPPLE CREEK-VICTOR RE-1",
@@ -4244,7 +4244,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.6919464972563052",
+        "key": "0.8019238290344735",
         "nodeType": "function",
         "props": Object {
           "location": "CROWLEY COUNTY RE-1-J",
@@ -4268,7 +4268,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.4084816855423763",
+        "key": "0.7935801805777558",
         "nodeType": "function",
         "props": Object {
           "location": "CUSTER COUNTY SCHOOL DISTRICT C-1",
@@ -4292,7 +4292,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.38458375010034995",
+        "key": "0.9734823645356703",
         "nodeType": "function",
         "props": Object {
           "location": "DE BEQUE 49JT",
@@ -4316,7 +4316,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.439478941855844",
+        "key": "0.06363727102241445",
         "nodeType": "function",
         "props": Object {
           "location": "DEER TRAIL 26J",
@@ -4340,7 +4340,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.9861998767693563",
+        "key": "0.07117569655450717",
         "nodeType": "function",
         "props": Object {
           "location": "DEL NORTE C-7",
@@ -4364,7 +4364,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.4348874272311305",
+        "key": "0.9912374035694804",
         "nodeType": "function",
         "props": Object {
           "location": "DELTA COUNTY 50(J)",
@@ -4388,7 +4388,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.6035666627849692",
+        "key": "0.327858882984273",
         "nodeType": "function",
         "props": Object {
           "location": "DENVER COUNTY 1",
@@ -4412,7 +4412,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.1455999596747657",
+        "key": "0.22793255558197423",
         "nodeType": "function",
         "props": Object {
           "location": "DOLORES COUNTY RE NO.2",
@@ -4436,7 +4436,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.6266554485809024",
+        "key": "0.5124534748074205",
         "nodeType": "function",
         "props": Object {
           "location": "DOLORES RE-4A",
@@ -4460,7 +4460,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.23626223059357865",
+        "key": "0.6969296438350616",
         "nodeType": "function",
         "props": Object {
           "location": "DOUGLAS COUNTY RE 1",
@@ -4484,7 +4484,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.6607307148393531",
+        "key": "0.5481859799720123",
         "nodeType": "function",
         "props": Object {
           "location": "DURANGO 9-R",
@@ -4508,7 +4508,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.20975861483977276",
+        "key": "0.9263341377821799",
         "nodeType": "function",
         "props": Object {
           "location": "EADS RE-1",
@@ -4532,7 +4532,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.18126305667563236",
+        "key": "0.17400268083181292",
         "nodeType": "function",
         "props": Object {
           "location": "EAGLE COUNTY RE 50",
@@ -4556,7 +4556,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.8552113312460183",
+        "key": "0.4494966613279734",
         "nodeType": "function",
         "props": Object {
           "location": "EAST GRAND 2",
@@ -4580,7 +4580,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.8873107769669244",
+        "key": "0.5175684377676246",
         "nodeType": "function",
         "props": Object {
           "location": "EAST OTERO R-1",
@@ -4604,7 +4604,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.7956339029149173",
+        "key": "0.4917972588203554",
         "nodeType": "function",
         "props": Object {
           "location": "EAST YUMA COUNTY RJ-2",
@@ -4628,7 +4628,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.009406453645718127",
+        "key": "0.3672155847081653",
         "nodeType": "function",
         "props": Object {
           "location": "EATON RE-2",
@@ -4652,7 +4652,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.043108840084131295",
+        "key": "0.9345354048523782",
         "nodeType": "function",
         "props": Object {
           "location": "EDISON 54 JT",
@@ -4676,7 +4676,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.4071704883384859",
+        "key": "0.3358462156838371",
         "nodeType": "function",
         "props": Object {
           "location": "ELBERT 200",
@@ -4700,7 +4700,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.10852393895187773",
+        "key": "0.5859718309180801",
         "nodeType": "function",
         "props": Object {
           "location": "ELIZABETH C-1",
@@ -4724,7 +4724,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.2325842770815445",
+        "key": "0.7667873328216992",
         "nodeType": "function",
         "props": Object {
           "location": "ELLICOTT 22",
@@ -4748,7 +4748,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.14489734051066838",
+        "key": "0.6814815392918367",
         "nodeType": "function",
         "props": Object {
           "location": "ENGLEWOOD 1",
@@ -4772,7 +4772,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.3383169575930409",
+        "key": "0.9695997938649508",
         "nodeType": "function",
         "props": Object {
           "location": "FALCON 49",
@@ -4796,7 +4796,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.8441918763040233",
+        "key": "0.23872793473336884",
         "nodeType": "function",
         "props": Object {
           "location": "FLORENCE RE-2",
@@ -4820,7 +4820,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.6919063407404231",
+        "key": "0.9529134415134235",
         "nodeType": "function",
         "props": Object {
           "location": "FORT MORGAN RE-3",
@@ -4844,7 +4844,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.7812545311207388",
+        "key": "0.9095133747416386",
         "nodeType": "function",
         "props": Object {
           "location": "FOUNTAIN 8",
@@ -4868,7 +4868,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.6517820131686316",
+        "key": "0.33506826935807",
         "nodeType": "function",
         "props": Object {
           "location": "FOWLER R-4J",
@@ -4892,7 +4892,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.8467608704860758",
+        "key": "0.7297844039731778",
         "nodeType": "function",
         "props": Object {
           "location": "FRENCHMAN RE-3",
@@ -4916,7 +4916,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.6418418200313385",
+        "key": "0.7905606232765985",
         "nodeType": "function",
         "props": Object {
           "location": "GARFIELD 16",
@@ -4940,7 +4940,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.1228106532233062",
+        "key": "0.12132060012086021",
         "nodeType": "function",
         "props": Object {
           "location": "GARFIELD RE-2",
@@ -4964,7 +4964,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.14138598331396812",
+        "key": "0.7216206065938657",
         "nodeType": "function",
         "props": Object {
           "location": "GENOA-HUGO C113",
@@ -4988,7 +4988,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.16284848470383206",
+        "key": "0.7305639826812087",
         "nodeType": "function",
         "props": Object {
           "location": "GILPIN COUNTY RE-1",
@@ -5012,7 +5012,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.06150307460263926",
+        "key": "0.6468875847749547",
         "nodeType": "function",
         "props": Object {
           "location": "GRANADA RE-1",
@@ -5036,7 +5036,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.19247546678409977",
+        "key": "0.6540955603324636",
         "nodeType": "function",
         "props": Object {
           "location": "GREELEY 6",
@@ -5060,7 +5060,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.002834930523270218",
+        "key": "0.9657585679311009",
         "nodeType": "function",
         "props": Object {
           "location": "GUNNISON WATERSHED RE1J",
@@ -5084,7 +5084,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.8492352917838477",
+        "key": "0.9499952024484122",
         "nodeType": "function",
         "props": Object {
           "location": "HANOVER 28",
@@ -5108,7 +5108,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.5354647999537614",
+        "key": "0.028724168371542236",
         "nodeType": "function",
         "props": Object {
           "location": "HARRISON 2",
@@ -5132,7 +5132,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.962543759069916",
+        "key": "0.318979706935443",
         "nodeType": "function",
         "props": Object {
           "location": "HAXTUN RE-2J",
@@ -5156,7 +5156,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.010774178080028785",
+        "key": "0.8394792813424212",
         "nodeType": "function",
         "props": Object {
           "location": "HAYDEN RE-1",
@@ -5180,7 +5180,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.7052680428044624",
+        "key": "0.1524543335154951",
         "nodeType": "function",
         "props": Object {
           "location": "HINSDALE COUNTY RE 1",
@@ -5204,7 +5204,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.9000573390316402",
+        "key": "0.31690108952373275",
         "nodeType": "function",
         "props": Object {
           "location": "HI-PLAINS R-23",
@@ -5228,7 +5228,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.7019714729737612",
+        "key": "0.9000851841227175",
         "nodeType": "function",
         "props": Object {
           "location": "HOEHNE REORGANIZED 3",
@@ -5252,7 +5252,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.6579432029024674",
+        "key": "0.10882419186711623",
         "nodeType": "function",
         "props": Object {
           "location": "HOLLY RE-3",
@@ -5276,7 +5276,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.49408293933230985",
+        "key": "0.4703550501759397",
         "nodeType": "function",
         "props": Object {
           "location": "HOLYOKE RE-1J",
@@ -5300,7 +5300,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.4050778628587315",
+        "key": "0.2088581427434142",
         "nodeType": "function",
         "props": Object {
           "location": "HUERFANO RE-1",
@@ -5324,7 +5324,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.9060935966394501",
+        "key": "0.6300293383822602",
         "nodeType": "function",
         "props": Object {
           "location": "IDALIA SCHOOL DISTRICT RJ-3",
@@ -5348,7 +5348,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.48246907862277055",
+        "key": "0.3218378851509869",
         "nodeType": "function",
         "props": Object {
           "location": "IGNACIO 11 JT",
@@ -5372,7 +5372,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.03294497200554303",
+        "key": "0.5529244120062049",
         "nodeType": "function",
         "props": Object {
           "location": "JEFFERSON COUNTY R-1",
@@ -5396,7 +5396,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.6225135102390296",
+        "key": "0.5134966086930972",
         "nodeType": "function",
         "props": Object {
           "location": "JOHNSTOWN-MILLIKEN RE-5J",
@@ -5420,7 +5420,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.6920079177016432",
+        "key": "0.3918374226126531",
         "nodeType": "function",
         "props": Object {
           "location": "JULESBURG RE-1",
@@ -5444,7 +5444,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.16565506452349177",
+        "key": "0.44576614160641426",
         "nodeType": "function",
         "props": Object {
           "location": "KARVAL RE-23",
@@ -5468,7 +5468,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.24293837346861635",
+        "key": "0.8412037811005206",
         "nodeType": "function",
         "props": Object {
           "location": "KEENESBURG RE-3(J)",
@@ -5492,7 +5492,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.4404636813716103",
+        "key": "0.46759451261473006",
         "nodeType": "function",
         "props": Object {
           "location": "KIM REORGANIZED 88",
@@ -5516,7 +5516,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.6291894257796666",
+        "key": "0.41484192622600147",
         "nodeType": "function",
         "props": Object {
           "location": "KIOWA C-2",
@@ -5540,7 +5540,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.35077357977756285",
+        "key": "0.6053354865936837",
         "nodeType": "function",
         "props": Object {
           "location": "KIT CARSON R-1",
@@ -5564,7 +5564,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.3651630425995669",
+        "key": "0.9207374778257351",
         "nodeType": "function",
         "props": Object {
           "location": "LA VETA RE-2",
@@ -5588,7 +5588,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.08921088721822623",
+        "key": "0.07103983812356462",
         "nodeType": "function",
         "props": Object {
           "location": "LAKE COUNTY R-1",
@@ -5612,7 +5612,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.6391038208655326",
+        "key": "0.45696859705886883",
         "nodeType": "function",
         "props": Object {
           "location": "LAMAR RE-2",
@@ -5636,7 +5636,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.8913159330011369",
+        "key": "0.35870479932364474",
         "nodeType": "function",
         "props": Object {
           "location": "LAS ANIMAS RE-1",
@@ -5660,7 +5660,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.6065470429897608",
+        "key": "0.41174058858806317",
         "nodeType": "function",
         "props": Object {
           "location": "LEWIS-PALMER 38",
@@ -5684,7 +5684,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.2865730997925082",
+        "key": "0.936370475598479",
         "nodeType": "function",
         "props": Object {
           "location": "LIBERTY SCHOOL DISTRICT J-4",
@@ -5708,7 +5708,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.40342517507409337",
+        "key": "0.41600380663777936",
         "nodeType": "function",
         "props": Object {
           "location": "LIMON RE-4J",
@@ -5732,7 +5732,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.2950283374751017",
+        "key": "0.30970130316079625",
         "nodeType": "function",
         "props": Object {
           "location": "LITTLETON 6",
@@ -5756,7 +5756,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.8751022816889642",
+        "key": "0.48499006095089636",
         "nodeType": "function",
         "props": Object {
           "location": "LONE STAR 101",
@@ -5780,7 +5780,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.9635740937580637",
+        "key": "0.2599543213946587",
         "nodeType": "function",
         "props": Object {
           "location": "MANCOS RE-6",
@@ -5804,7 +5804,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.4151147205468966",
+        "key": "0.9408437355649775",
         "nodeType": "function",
         "props": Object {
           "location": "MANITOU SPRINGS 14",
@@ -5828,7 +5828,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.20202103239879055",
+        "key": "0.9354330006354938",
         "nodeType": "function",
         "props": Object {
           "location": "MANZANOLA 3J",
@@ -5852,7 +5852,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.5636423639618435",
+        "key": "0.5816828416613327",
         "nodeType": "function",
         "props": Object {
           "location": "MAPLETON 1",
@@ -5876,7 +5876,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.3971119023174221",
+        "key": "0.6243671191725062",
         "nodeType": "function",
         "props": Object {
           "location": "MC CLAVE RE-2",
@@ -5900,7 +5900,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.12949553415479031",
+        "key": "0.6873251910603879",
         "nodeType": "function",
         "props": Object {
           "location": "MEEKER RE1",
@@ -5924,7 +5924,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.623721757633908",
+        "key": "0.41554740185725403",
         "nodeType": "function",
         "props": Object {
           "location": "MESA COUNTY VALLEY 51",
@@ -5948,7 +5948,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.25364592101153094",
+        "key": "0.7993000655570563",
         "nodeType": "function",
         "props": Object {
           "location": "MIAMI/YODER 60 JT",
@@ -5972,7 +5972,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.7122517602031422",
+        "key": "0.2131938569641343",
         "nodeType": "function",
         "props": Object {
           "location": "MOFFAT 2",
@@ -5996,7 +5996,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.2997757905611551",
+        "key": "0.8574954797961238",
         "nodeType": "function",
         "props": Object {
           "location": "MOFFAT COUNTY RE:NO 1",
@@ -6020,7 +6020,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.401339030817335",
+        "key": "0.4063043275039091",
         "nodeType": "function",
         "props": Object {
           "location": "MONTE VISTA C-8",
@@ -6044,7 +6044,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.5877462072330282",
+        "key": "0.6579072266099883",
         "nodeType": "function",
         "props": Object {
           "location": "MONTEZUMA-CORTEZ RE-1",
@@ -6068,7 +6068,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.6637275846810042",
+        "key": "0.8134196182874849",
         "nodeType": "function",
         "props": Object {
           "location": "MONTROSE COUNTY RE-1J",
@@ -6092,7 +6092,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.9995516391284318",
+        "key": "0.6659253260713387",
         "nodeType": "function",
         "props": Object {
           "location": "MOUNTAIN VALLEY RE 1",
@@ -6116,7 +6116,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.6020208286941593",
+        "key": "0.42399653066455545",
         "nodeType": "function",
         "props": Object {
           "location": "NORTH CONEJOS RE-1J",
@@ -6140,7 +6140,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.1996816523075815",
+        "key": "0.6664769524128591",
         "nodeType": "function",
         "props": Object {
           "location": "NORTH PARK R-1",
@@ -6164,7 +6164,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.5759996076027112",
+        "key": "0.7193835775256789",
         "nodeType": "function",
         "props": Object {
           "location": "NORTHGLENN-THORNTON 12",
@@ -6188,7 +6188,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.8100094619115721",
+        "key": "0.007070705226117413",
         "nodeType": "function",
         "props": Object {
           "location": "NORWOOD R-2J",
@@ -6212,7 +6212,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.46636975753108634",
+        "key": "0.7874564286990928",
         "nodeType": "function",
         "props": Object {
           "location": "OTIS R-3",
@@ -6236,7 +6236,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.922778789870188",
+        "key": "0.7870856552963459",
         "nodeType": "function",
         "props": Object {
           "location": "OURAY R-1",
@@ -6260,7 +6260,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.975709854892006",
+        "key": "0.10166956300280638",
         "nodeType": "function",
         "props": Object {
           "location": "PARK (ESTES PARK) R-3",
@@ -6284,7 +6284,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.006338131067669117",
+        "key": "0.8964217426397665",
         "nodeType": "function",
         "props": Object {
           "location": "PARK COUNTY RE-2",
@@ -6308,7 +6308,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.8900892914399916",
+        "key": "0.8457493824658227",
         "nodeType": "function",
         "props": Object {
           "location": "PAWNEE RE-12",
@@ -6332,7 +6332,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.05572629479485092",
+        "key": "0.23326768538740095",
         "nodeType": "function",
         "props": Object {
           "location": "PEYTON 23 JT",
@@ -6356,7 +6356,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.629974771779299",
+        "key": "0.8987302073624168",
         "nodeType": "function",
         "props": Object {
           "location": "PLAINVIEW RE-2",
@@ -6380,7 +6380,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.18854446645034195",
+        "key": "0.41541781742228157",
         "nodeType": "function",
         "props": Object {
           "location": "PLATEAU RE-5",
@@ -6404,7 +6404,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.14732705174454308",
+        "key": "0.9947355404299851",
         "nodeType": "function",
         "props": Object {
           "location": "PLATEAU VALLEY 50",
@@ -6428,7 +6428,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.1849570531798923",
+        "key": "0.8669695470528351",
         "nodeType": "function",
         "props": Object {
           "location": "PLATTE CANYON 1",
@@ -6452,7 +6452,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.3991210642605385",
+        "key": "0.10018089413874876",
         "nodeType": "function",
         "props": Object {
           "location": "PLATTE VALLEY RE-3",
@@ -6476,7 +6476,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.023470392220813707",
+        "key": "0.8963467275913171",
         "nodeType": "function",
         "props": Object {
           "location": "PLATTE VALLEY RE-7",
@@ -6500,7 +6500,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.7123961325373971",
+        "key": "0.3289777656504438",
         "nodeType": "function",
         "props": Object {
           "location": "POUDRE R-1",
@@ -6524,7 +6524,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.17109971904343313",
+        "key": "0.8251101350646743",
         "nodeType": "function",
         "props": Object {
           "location": "PRAIRIE RE-11",
@@ -6548,7 +6548,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.7802038861234342",
+        "key": "0.5207100643035185",
         "nodeType": "function",
         "props": Object {
           "location": "PRIMERO REORGANIZED 2",
@@ -6572,7 +6572,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.7159911524347078",
+        "key": "0.8065062883022482",
         "nodeType": "function",
         "props": Object {
           "location": "PRITCHETT RE-3",
@@ -6596,7 +6596,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.27571220403001107",
+        "key": "0.9330604337801744",
         "nodeType": "function",
         "props": Object {
           "location": "PUEBLO CITY 60",
@@ -6620,7 +6620,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.45239590672216523",
+        "key": "0.881993779985381",
         "nodeType": "function",
         "props": Object {
           "location": "PUEBLO COUNTY RURAL 70",
@@ -6644,7 +6644,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.7712939201730229",
+        "key": "0.4968256361798098",
         "nodeType": "function",
         "props": Object {
           "location": "RANGELY RE-4",
@@ -6668,7 +6668,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.9207235105124694",
+        "key": "0.9897722723929052",
         "nodeType": "function",
         "props": Object {
           "location": "RIDGWAY R-2",
@@ -6692,7 +6692,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.8196249257909858",
+        "key": "0.8296672493471753",
         "nodeType": "function",
         "props": Object {
           "location": "ROARING FORK RE-1",
@@ -6716,7 +6716,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.17005704282231915",
+        "key": "0.5761403306759196",
         "nodeType": "function",
         "props": Object {
           "location": "ROCKY FORD R-2",
@@ -6740,7 +6740,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.3055403185825143",
+        "key": "0.2808871822156698",
         "nodeType": "function",
         "props": Object {
           "location": "SALIDA R-32",
@@ -6764,7 +6764,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.6415142413877015",
+        "key": "0.610408667006171",
         "nodeType": "function",
         "props": Object {
           "location": "SANFORD 6J",
@@ -6788,7 +6788,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.011994039959242198",
+        "key": "0.664550203465933",
         "nodeType": "function",
         "props": Object {
           "location": "SANGRE DE CRISTO RE-22J",
@@ -6812,7 +6812,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.3801950223505768",
+        "key": "0.8886713746693238",
         "nodeType": "function",
         "props": Object {
           "location": "SARGENT RE-33J",
@@ -6836,7 +6836,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.8827738186847764",
+        "key": "0.8411698508736905",
         "nodeType": "function",
         "props": Object {
           "location": "SHERIDAN 2",
@@ -6860,7 +6860,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.9508306459535123",
+        "key": "0.9920599543962725",
         "nodeType": "function",
         "props": Object {
           "location": "SIERRA GRANDE R-30",
@@ -6884,7 +6884,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.7250406078302134",
+        "key": "0.5024121585431889",
         "nodeType": "function",
         "props": Object {
           "location": "SILVERTON 1",
@@ -6908,7 +6908,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.21666104319781687",
+        "key": "0.5001661749316049",
         "nodeType": "function",
         "props": Object {
           "location": "SOUTH CONEJOS RE-10",
@@ -6932,7 +6932,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.10398535310814716",
+        "key": "0.7263214875337918",
         "nodeType": "function",
         "props": Object {
           "location": "SOUTH ROUTT RE 3",
@@ -6956,7 +6956,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.506660598367443",
+        "key": "0.801437012444558",
         "nodeType": "function",
         "props": Object {
           "location": "SPRINGFIELD RE-4",
@@ -6980,7 +6980,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.38783109234540514",
+        "key": "0.4545419046281378",
         "nodeType": "function",
         "props": Object {
           "location": "ST VRAIN VALLEY RE 1J",
@@ -7004,7 +7004,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.4528131975168943",
+        "key": "0.4118236554261976",
         "nodeType": "function",
         "props": Object {
           "location": "STEAMBOAT SPRINGS RE-2",
@@ -7028,7 +7028,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.4490744295629725",
+        "key": "0.16036967070656072",
         "nodeType": "function",
         "props": Object {
           "location": "STRASBURG 31J",
@@ -7052,7 +7052,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.885501723325623",
+        "key": "0.4867365743824743",
         "nodeType": "function",
         "props": Object {
           "location": "STRATTON R-4",
@@ -7076,7 +7076,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.2755706488633509",
+        "key": "0.355597856180222",
         "nodeType": "function",
         "props": Object {
           "location": "SUMMIT RE-1",
@@ -7100,7 +7100,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.6853261170889986",
+        "key": "0.48892636207019846",
         "nodeType": "function",
         "props": Object {
           "location": "SWINK 33",
@@ -7124,7 +7124,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.1870632417731588",
+        "key": "0.5494030303743316",
         "nodeType": "function",
         "props": Object {
           "location": "TELLURIDE R-1",
@@ -7148,7 +7148,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.8210155727938988",
+        "key": "0.08028292850064367",
         "nodeType": "function",
         "props": Object {
           "location": "THOMPSON R-2J",
@@ -7172,7 +7172,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.3098817413786812",
+        "key": "0.1548995229553638",
         "nodeType": "function",
         "props": Object {
           "location": "TRINIDAD 1",
@@ -7196,7 +7196,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.7944326772789638",
+        "key": "0.9273090758107669",
         "nodeType": "function",
         "props": Object {
           "location": "VALLEY RE-1",
@@ -7220,7 +7220,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.35418428720243744",
+        "key": "0.46599920869349565",
         "nodeType": "function",
         "props": Object {
           "location": "VILAS RE-5",
@@ -7244,7 +7244,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.316011104655592",
+        "key": "0.8128853174289128",
         "nodeType": "function",
         "props": Object {
           "location": "WALSH RE-1",
@@ -7268,7 +7268,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.006886845561432153",
+        "key": "0.3641970142746651",
         "nodeType": "function",
         "props": Object {
           "location": "WELD COUNTY RE-1",
@@ -7292,7 +7292,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.717125772982474",
+        "key": "0.4973899513363993",
         "nodeType": "function",
         "props": Object {
           "location": "WELD COUNTY S/D RE-8",
@@ -7316,7 +7316,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.9498034412216119",
+        "key": "0.4579319551291361",
         "nodeType": "function",
         "props": Object {
           "location": "WELDON VALLEY RE-20(J)",
@@ -7340,7 +7340,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.6877422799443214",
+        "key": "0.3880892282039201",
         "nodeType": "function",
         "props": Object {
           "location": "WEST END RE-2",
@@ -7364,7 +7364,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.048509218000808874",
+        "key": "0.3731005521461215",
         "nodeType": "function",
         "props": Object {
           "location": "WEST GRAND 1-JT",
@@ -7388,7 +7388,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.037154132137742435",
+        "key": "0.4361927846386142",
         "nodeType": "function",
         "props": Object {
           "location": "WEST YUMA COUNTY RJ-1",
@@ -7412,7 +7412,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.8421260475788805",
+        "key": "0.19377960047414367",
         "nodeType": "function",
         "props": Object {
           "location": "WESTMINSTER 50",
@@ -7436,7 +7436,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.676512139710367",
+        "key": "0.0725695863976461",
         "nodeType": "function",
         "props": Object {
           "location": "WIDEFIELD 3",
@@ -7460,7 +7460,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.020628222000818264",
+        "key": "0.3325630053477018",
         "nodeType": "function",
         "props": Object {
           "location": "WIGGINS RE-50(J)",
@@ -7484,7 +7484,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.9533740771447612",
+        "key": "0.1419260065410981",
         "nodeType": "function",
         "props": Object {
           "location": "WILEY RE-13 JT",
@@ -7508,7 +7508,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.9355620163469274",
+        "key": "0.7003586171218121",
         "nodeType": "function",
         "props": Object {
           "location": "WINDSOR RE-4",
@@ -7532,7 +7532,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.31429461305299955",
+        "key": "0.6704386525562012",
         "nodeType": "function",
         "props": Object {
           "location": "WOODLAND PARK RE-2",
@@ -7556,7 +7556,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.4161566463261219",
+        "key": "0.3833875115272283",
         "nodeType": "function",
         "props": Object {
           "location": "WOODLIN R-104",
@@ -7580,7 +7580,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.6019440318154259",
+        "key": "0.7373303152898667",
         "nodeType": "function",
         "props": Object {
           "location": "WRAY SCHOOL DISTRICT RD-2",
@@ -7604,7 +7604,7 @@ ShallowWrapper {
       },
       Object {
         "instance": null,
-        "key": "0.8837922435202465",
+        "key": "0.7168665127889906",
         "nodeType": "function",
         "props": Object {
           "location": "YUMA SCHOOL DISTRICT 1",
@@ -10900,7 +10900,7 @@ ShallowWrapper {
       "rendered": Array [
         Object {
           "instance": null,
-          "key": "0.9843806687378311",
+          "key": "0.5053516539166767",
           "nodeType": "function",
           "props": Object {
             "location": "COLORADO",
@@ -10924,7 +10924,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.4628078897339265",
+          "key": "0.37871989580630494",
           "nodeType": "function",
           "props": Object {
             "location": "ACADEMY 20",
@@ -10948,7 +10948,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.19970885085510726",
+          "key": "0.26993523344749026",
           "nodeType": "function",
           "props": Object {
             "location": "ADAMS COUNTY 14",
@@ -10972,7 +10972,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.41990969479398554",
+          "key": "0.18812921105381886",
           "nodeType": "function",
           "props": Object {
             "location": "ADAMS-ARAPAHOE 28J",
@@ -10996,7 +10996,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.9461211306720023",
+          "key": "0.8936115398541447",
           "nodeType": "function",
           "props": Object {
             "location": "AGATE 300",
@@ -11020,7 +11020,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.4422222300010148",
+          "key": "0.20082908906096342",
           "nodeType": "function",
           "props": Object {
             "location": "AGUILAR REORGANIZED 6",
@@ -11044,7 +11044,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.005155504874158501",
+          "key": "0.15161882083422218",
           "nodeType": "function",
           "props": Object {
             "location": "AKRON R-1",
@@ -11068,7 +11068,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.9846649896071975",
+          "key": "0.5644344824171212",
           "nodeType": "function",
           "props": Object {
             "location": "ALAMOSA RE-11J",
@@ -11092,7 +11092,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.2753133395125267",
+          "key": "0.9128642647128686",
           "nodeType": "function",
           "props": Object {
             "location": "ARCHULETA COUNTY 50 JT",
@@ -11116,7 +11116,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.25648593351080784",
+          "key": "0.7775421662008852",
           "nodeType": "function",
           "props": Object {
             "location": "ARICKAREE R-2",
@@ -11140,7 +11140,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.359132095290319",
+          "key": "0.7451488527058545",
           "nodeType": "function",
           "props": Object {
             "location": "ARRIBA-FLAGLER C-20",
@@ -11164,7 +11164,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.03980112625004839",
+          "key": "0.9265500968139484",
           "nodeType": "function",
           "props": Object {
             "location": "ASPEN 1",
@@ -11188,7 +11188,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.15752416596622232",
+          "key": "0.4200992883899668",
           "nodeType": "function",
           "props": Object {
             "location": "AULT-HIGHLAND RE-9",
@@ -11212,7 +11212,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.7834651641842925",
+          "key": "0.4152260894976403",
           "nodeType": "function",
           "props": Object {
             "location": "BAYFIELD 10 JT-R",
@@ -11236,7 +11236,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.7537959652427375",
+          "key": "0.20848620545385455",
           "nodeType": "function",
           "props": Object {
             "location": "BENNETT 29J",
@@ -11260,7 +11260,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.2309867378114583",
+          "key": "0.5944004443000823",
           "nodeType": "function",
           "props": Object {
             "location": "BETHUNE R-5",
@@ -11284,7 +11284,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.5467514313655468",
+          "key": "0.6899245625129933",
           "nodeType": "function",
           "props": Object {
             "location": "BIG SANDY 100J",
@@ -11308,7 +11308,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.5770082902134861",
+          "key": "0.4908495108393769",
           "nodeType": "function",
           "props": Object {
             "location": "BOULDER VALLEY RE 2",
@@ -11332,7 +11332,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.35835855921740634",
+          "key": "0.44344715533866097",
           "nodeType": "function",
           "props": Object {
             "location": "BRANSON REORGANIZED 82",
@@ -11356,7 +11356,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.5996808918656316",
+          "key": "0.27166767895149135",
           "nodeType": "function",
           "props": Object {
             "location": "BRIGGSDALE RE-10",
@@ -11380,7 +11380,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.2509245896327976",
+          "key": "0.8856960599039836",
           "nodeType": "function",
           "props": Object {
             "location": "BRIGHTON 27J",
@@ -11404,7 +11404,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.9696740733212614",
+          "key": "0.6047916414256742",
           "nodeType": "function",
           "props": Object {
             "location": "BRUSH RE-2(J)",
@@ -11428,7 +11428,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.705759656994918",
+          "key": "0.28648331068647703",
           "nodeType": "function",
           "props": Object {
             "location": "BUENA VISTA R-31",
@@ -11452,7 +11452,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.2597372062699508",
+          "key": "0.6726459254653914",
           "nodeType": "function",
           "props": Object {
             "location": "BUFFALO RE-4",
@@ -11476,7 +11476,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.36632861843084763",
+          "key": "0.8996639892286855",
           "nodeType": "function",
           "props": Object {
             "location": "BURLINGTON RE-6J",
@@ -11500,7 +11500,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.9108362451641694",
+          "key": "0.16477943103354065",
           "nodeType": "function",
           "props": Object {
             "location": "BYERS 32J",
@@ -11524,7 +11524,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.16745235093933486",
+          "key": "0.7268615521893353",
           "nodeType": "function",
           "props": Object {
             "location": "CALHAN RJ-1",
@@ -11548,7 +11548,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.07272373946901012",
+          "key": "0.20059953167027023",
           "nodeType": "function",
           "props": Object {
             "location": "CAMPO RE-6",
@@ -11572,7 +11572,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.6067635628907628",
+          "key": "0.9328859402171994",
           "nodeType": "function",
           "props": Object {
             "location": "CANON CITY RE-1",
@@ -11596,7 +11596,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.8302685542509851",
+          "key": "0.49886384179870014",
           "nodeType": "function",
           "props": Object {
             "location": "CENTENNIAL R-1",
@@ -11620,7 +11620,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.7373827118007761",
+          "key": "0.737029770247599",
           "nodeType": "function",
           "props": Object {
             "location": "CENTER 26 JT",
@@ -11644,7 +11644,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.5019796986311482",
+          "key": "0.008657780200311604",
           "nodeType": "function",
           "props": Object {
             "location": "CHERAW 31",
@@ -11668,7 +11668,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.8938885754157502",
+          "key": "0.05645266541450367",
           "nodeType": "function",
           "props": Object {
             "location": "CHERRY CREEK 5",
@@ -11692,7 +11692,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.8372832178381309",
+          "key": "0.6587204193206238",
           "nodeType": "function",
           "props": Object {
             "location": "CHEYENNE COUNTY RE-5",
@@ -11716,7 +11716,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.9870250424604834",
+          "key": "0.009582199182155637",
           "nodeType": "function",
           "props": Object {
             "location": "CHEYENNE MOUNTAIN 12",
@@ -11740,7 +11740,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.6268975134185009",
+          "key": "0.2697019751821279",
           "nodeType": "function",
           "props": Object {
             "location": "CLEAR CREEK RE-1",
@@ -11764,7 +11764,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.6183075921064458",
+          "key": "0.8599643647418318",
           "nodeType": "function",
           "props": Object {
             "location": "COLORADO SPRINGS 11",
@@ -11788,7 +11788,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.9204599942258114",
+          "key": "0.510548762029331",
           "nodeType": "function",
           "props": Object {
             "location": "COTOPAXI RE-3",
@@ -11812,7 +11812,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.2845777275418937",
+          "key": "0.8639957635324305",
           "nodeType": "function",
           "props": Object {
             "location": "CREEDE CONSOLIDATED 1",
@@ -11836,7 +11836,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.017650087393278335",
+          "key": "0.06463310609354411",
           "nodeType": "function",
           "props": Object {
             "location": "CRIPPLE CREEK-VICTOR RE-1",
@@ -11860,7 +11860,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.6919464972563052",
+          "key": "0.8019238290344735",
           "nodeType": "function",
           "props": Object {
             "location": "CROWLEY COUNTY RE-1-J",
@@ -11884,7 +11884,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.4084816855423763",
+          "key": "0.7935801805777558",
           "nodeType": "function",
           "props": Object {
             "location": "CUSTER COUNTY SCHOOL DISTRICT C-1",
@@ -11908,7 +11908,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.38458375010034995",
+          "key": "0.9734823645356703",
           "nodeType": "function",
           "props": Object {
             "location": "DE BEQUE 49JT",
@@ -11932,7 +11932,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.439478941855844",
+          "key": "0.06363727102241445",
           "nodeType": "function",
           "props": Object {
             "location": "DEER TRAIL 26J",
@@ -11956,7 +11956,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.9861998767693563",
+          "key": "0.07117569655450717",
           "nodeType": "function",
           "props": Object {
             "location": "DEL NORTE C-7",
@@ -11980,7 +11980,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.4348874272311305",
+          "key": "0.9912374035694804",
           "nodeType": "function",
           "props": Object {
             "location": "DELTA COUNTY 50(J)",
@@ -12004,7 +12004,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.6035666627849692",
+          "key": "0.327858882984273",
           "nodeType": "function",
           "props": Object {
             "location": "DENVER COUNTY 1",
@@ -12028,7 +12028,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.1455999596747657",
+          "key": "0.22793255558197423",
           "nodeType": "function",
           "props": Object {
             "location": "DOLORES COUNTY RE NO.2",
@@ -12052,7 +12052,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.6266554485809024",
+          "key": "0.5124534748074205",
           "nodeType": "function",
           "props": Object {
             "location": "DOLORES RE-4A",
@@ -12076,7 +12076,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.23626223059357865",
+          "key": "0.6969296438350616",
           "nodeType": "function",
           "props": Object {
             "location": "DOUGLAS COUNTY RE 1",
@@ -12100,7 +12100,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.6607307148393531",
+          "key": "0.5481859799720123",
           "nodeType": "function",
           "props": Object {
             "location": "DURANGO 9-R",
@@ -12124,7 +12124,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.20975861483977276",
+          "key": "0.9263341377821799",
           "nodeType": "function",
           "props": Object {
             "location": "EADS RE-1",
@@ -12148,7 +12148,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.18126305667563236",
+          "key": "0.17400268083181292",
           "nodeType": "function",
           "props": Object {
             "location": "EAGLE COUNTY RE 50",
@@ -12172,7 +12172,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.8552113312460183",
+          "key": "0.4494966613279734",
           "nodeType": "function",
           "props": Object {
             "location": "EAST GRAND 2",
@@ -12196,7 +12196,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.8873107769669244",
+          "key": "0.5175684377676246",
           "nodeType": "function",
           "props": Object {
             "location": "EAST OTERO R-1",
@@ -12220,7 +12220,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.7956339029149173",
+          "key": "0.4917972588203554",
           "nodeType": "function",
           "props": Object {
             "location": "EAST YUMA COUNTY RJ-2",
@@ -12244,7 +12244,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.009406453645718127",
+          "key": "0.3672155847081653",
           "nodeType": "function",
           "props": Object {
             "location": "EATON RE-2",
@@ -12268,7 +12268,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.043108840084131295",
+          "key": "0.9345354048523782",
           "nodeType": "function",
           "props": Object {
             "location": "EDISON 54 JT",
@@ -12292,7 +12292,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.4071704883384859",
+          "key": "0.3358462156838371",
           "nodeType": "function",
           "props": Object {
             "location": "ELBERT 200",
@@ -12316,7 +12316,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.10852393895187773",
+          "key": "0.5859718309180801",
           "nodeType": "function",
           "props": Object {
             "location": "ELIZABETH C-1",
@@ -12340,7 +12340,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.2325842770815445",
+          "key": "0.7667873328216992",
           "nodeType": "function",
           "props": Object {
             "location": "ELLICOTT 22",
@@ -12364,7 +12364,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.14489734051066838",
+          "key": "0.6814815392918367",
           "nodeType": "function",
           "props": Object {
             "location": "ENGLEWOOD 1",
@@ -12388,7 +12388,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.3383169575930409",
+          "key": "0.9695997938649508",
           "nodeType": "function",
           "props": Object {
             "location": "FALCON 49",
@@ -12412,7 +12412,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.8441918763040233",
+          "key": "0.23872793473336884",
           "nodeType": "function",
           "props": Object {
             "location": "FLORENCE RE-2",
@@ -12436,7 +12436,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.6919063407404231",
+          "key": "0.9529134415134235",
           "nodeType": "function",
           "props": Object {
             "location": "FORT MORGAN RE-3",
@@ -12460,7 +12460,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.7812545311207388",
+          "key": "0.9095133747416386",
           "nodeType": "function",
           "props": Object {
             "location": "FOUNTAIN 8",
@@ -12484,7 +12484,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.6517820131686316",
+          "key": "0.33506826935807",
           "nodeType": "function",
           "props": Object {
             "location": "FOWLER R-4J",
@@ -12508,7 +12508,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.8467608704860758",
+          "key": "0.7297844039731778",
           "nodeType": "function",
           "props": Object {
             "location": "FRENCHMAN RE-3",
@@ -12532,7 +12532,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.6418418200313385",
+          "key": "0.7905606232765985",
           "nodeType": "function",
           "props": Object {
             "location": "GARFIELD 16",
@@ -12556,7 +12556,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.1228106532233062",
+          "key": "0.12132060012086021",
           "nodeType": "function",
           "props": Object {
             "location": "GARFIELD RE-2",
@@ -12580,7 +12580,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.14138598331396812",
+          "key": "0.7216206065938657",
           "nodeType": "function",
           "props": Object {
             "location": "GENOA-HUGO C113",
@@ -12604,7 +12604,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.16284848470383206",
+          "key": "0.7305639826812087",
           "nodeType": "function",
           "props": Object {
             "location": "GILPIN COUNTY RE-1",
@@ -12628,7 +12628,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.06150307460263926",
+          "key": "0.6468875847749547",
           "nodeType": "function",
           "props": Object {
             "location": "GRANADA RE-1",
@@ -12652,7 +12652,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.19247546678409977",
+          "key": "0.6540955603324636",
           "nodeType": "function",
           "props": Object {
             "location": "GREELEY 6",
@@ -12676,7 +12676,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.002834930523270218",
+          "key": "0.9657585679311009",
           "nodeType": "function",
           "props": Object {
             "location": "GUNNISON WATERSHED RE1J",
@@ -12700,7 +12700,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.8492352917838477",
+          "key": "0.9499952024484122",
           "nodeType": "function",
           "props": Object {
             "location": "HANOVER 28",
@@ -12724,7 +12724,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.5354647999537614",
+          "key": "0.028724168371542236",
           "nodeType": "function",
           "props": Object {
             "location": "HARRISON 2",
@@ -12748,7 +12748,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.962543759069916",
+          "key": "0.318979706935443",
           "nodeType": "function",
           "props": Object {
             "location": "HAXTUN RE-2J",
@@ -12772,7 +12772,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.010774178080028785",
+          "key": "0.8394792813424212",
           "nodeType": "function",
           "props": Object {
             "location": "HAYDEN RE-1",
@@ -12796,7 +12796,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.7052680428044624",
+          "key": "0.1524543335154951",
           "nodeType": "function",
           "props": Object {
             "location": "HINSDALE COUNTY RE 1",
@@ -12820,7 +12820,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.9000573390316402",
+          "key": "0.31690108952373275",
           "nodeType": "function",
           "props": Object {
             "location": "HI-PLAINS R-23",
@@ -12844,7 +12844,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.7019714729737612",
+          "key": "0.9000851841227175",
           "nodeType": "function",
           "props": Object {
             "location": "HOEHNE REORGANIZED 3",
@@ -12868,7 +12868,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.6579432029024674",
+          "key": "0.10882419186711623",
           "nodeType": "function",
           "props": Object {
             "location": "HOLLY RE-3",
@@ -12892,7 +12892,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.49408293933230985",
+          "key": "0.4703550501759397",
           "nodeType": "function",
           "props": Object {
             "location": "HOLYOKE RE-1J",
@@ -12916,7 +12916,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.4050778628587315",
+          "key": "0.2088581427434142",
           "nodeType": "function",
           "props": Object {
             "location": "HUERFANO RE-1",
@@ -12940,7 +12940,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.9060935966394501",
+          "key": "0.6300293383822602",
           "nodeType": "function",
           "props": Object {
             "location": "IDALIA SCHOOL DISTRICT RJ-3",
@@ -12964,7 +12964,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.48246907862277055",
+          "key": "0.3218378851509869",
           "nodeType": "function",
           "props": Object {
             "location": "IGNACIO 11 JT",
@@ -12988,7 +12988,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.03294497200554303",
+          "key": "0.5529244120062049",
           "nodeType": "function",
           "props": Object {
             "location": "JEFFERSON COUNTY R-1",
@@ -13012,7 +13012,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.6225135102390296",
+          "key": "0.5134966086930972",
           "nodeType": "function",
           "props": Object {
             "location": "JOHNSTOWN-MILLIKEN RE-5J",
@@ -13036,7 +13036,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.6920079177016432",
+          "key": "0.3918374226126531",
           "nodeType": "function",
           "props": Object {
             "location": "JULESBURG RE-1",
@@ -13060,7 +13060,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.16565506452349177",
+          "key": "0.44576614160641426",
           "nodeType": "function",
           "props": Object {
             "location": "KARVAL RE-23",
@@ -13084,7 +13084,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.24293837346861635",
+          "key": "0.8412037811005206",
           "nodeType": "function",
           "props": Object {
             "location": "KEENESBURG RE-3(J)",
@@ -13108,7 +13108,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.4404636813716103",
+          "key": "0.46759451261473006",
           "nodeType": "function",
           "props": Object {
             "location": "KIM REORGANIZED 88",
@@ -13132,7 +13132,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.6291894257796666",
+          "key": "0.41484192622600147",
           "nodeType": "function",
           "props": Object {
             "location": "KIOWA C-2",
@@ -13156,7 +13156,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.35077357977756285",
+          "key": "0.6053354865936837",
           "nodeType": "function",
           "props": Object {
             "location": "KIT CARSON R-1",
@@ -13180,7 +13180,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.3651630425995669",
+          "key": "0.9207374778257351",
           "nodeType": "function",
           "props": Object {
             "location": "LA VETA RE-2",
@@ -13204,7 +13204,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.08921088721822623",
+          "key": "0.07103983812356462",
           "nodeType": "function",
           "props": Object {
             "location": "LAKE COUNTY R-1",
@@ -13228,7 +13228,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.6391038208655326",
+          "key": "0.45696859705886883",
           "nodeType": "function",
           "props": Object {
             "location": "LAMAR RE-2",
@@ -13252,7 +13252,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.8913159330011369",
+          "key": "0.35870479932364474",
           "nodeType": "function",
           "props": Object {
             "location": "LAS ANIMAS RE-1",
@@ -13276,7 +13276,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.6065470429897608",
+          "key": "0.41174058858806317",
           "nodeType": "function",
           "props": Object {
             "location": "LEWIS-PALMER 38",
@@ -13300,7 +13300,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.2865730997925082",
+          "key": "0.936370475598479",
           "nodeType": "function",
           "props": Object {
             "location": "LIBERTY SCHOOL DISTRICT J-4",
@@ -13324,7 +13324,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.40342517507409337",
+          "key": "0.41600380663777936",
           "nodeType": "function",
           "props": Object {
             "location": "LIMON RE-4J",
@@ -13348,7 +13348,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.2950283374751017",
+          "key": "0.30970130316079625",
           "nodeType": "function",
           "props": Object {
             "location": "LITTLETON 6",
@@ -13372,7 +13372,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.8751022816889642",
+          "key": "0.48499006095089636",
           "nodeType": "function",
           "props": Object {
             "location": "LONE STAR 101",
@@ -13396,7 +13396,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.9635740937580637",
+          "key": "0.2599543213946587",
           "nodeType": "function",
           "props": Object {
             "location": "MANCOS RE-6",
@@ -13420,7 +13420,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.4151147205468966",
+          "key": "0.9408437355649775",
           "nodeType": "function",
           "props": Object {
             "location": "MANITOU SPRINGS 14",
@@ -13444,7 +13444,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.20202103239879055",
+          "key": "0.9354330006354938",
           "nodeType": "function",
           "props": Object {
             "location": "MANZANOLA 3J",
@@ -13468,7 +13468,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.5636423639618435",
+          "key": "0.5816828416613327",
           "nodeType": "function",
           "props": Object {
             "location": "MAPLETON 1",
@@ -13492,7 +13492,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.3971119023174221",
+          "key": "0.6243671191725062",
           "nodeType": "function",
           "props": Object {
             "location": "MC CLAVE RE-2",
@@ -13516,7 +13516,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.12949553415479031",
+          "key": "0.6873251910603879",
           "nodeType": "function",
           "props": Object {
             "location": "MEEKER RE1",
@@ -13540,7 +13540,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.623721757633908",
+          "key": "0.41554740185725403",
           "nodeType": "function",
           "props": Object {
             "location": "MESA COUNTY VALLEY 51",
@@ -13564,7 +13564,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.25364592101153094",
+          "key": "0.7993000655570563",
           "nodeType": "function",
           "props": Object {
             "location": "MIAMI/YODER 60 JT",
@@ -13588,7 +13588,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.7122517602031422",
+          "key": "0.2131938569641343",
           "nodeType": "function",
           "props": Object {
             "location": "MOFFAT 2",
@@ -13612,7 +13612,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.2997757905611551",
+          "key": "0.8574954797961238",
           "nodeType": "function",
           "props": Object {
             "location": "MOFFAT COUNTY RE:NO 1",
@@ -13636,7 +13636,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.401339030817335",
+          "key": "0.4063043275039091",
           "nodeType": "function",
           "props": Object {
             "location": "MONTE VISTA C-8",
@@ -13660,7 +13660,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.5877462072330282",
+          "key": "0.6579072266099883",
           "nodeType": "function",
           "props": Object {
             "location": "MONTEZUMA-CORTEZ RE-1",
@@ -13684,7 +13684,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.6637275846810042",
+          "key": "0.8134196182874849",
           "nodeType": "function",
           "props": Object {
             "location": "MONTROSE COUNTY RE-1J",
@@ -13708,7 +13708,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.9995516391284318",
+          "key": "0.6659253260713387",
           "nodeType": "function",
           "props": Object {
             "location": "MOUNTAIN VALLEY RE 1",
@@ -13732,7 +13732,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.6020208286941593",
+          "key": "0.42399653066455545",
           "nodeType": "function",
           "props": Object {
             "location": "NORTH CONEJOS RE-1J",
@@ -13756,7 +13756,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.1996816523075815",
+          "key": "0.6664769524128591",
           "nodeType": "function",
           "props": Object {
             "location": "NORTH PARK R-1",
@@ -13780,7 +13780,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.5759996076027112",
+          "key": "0.7193835775256789",
           "nodeType": "function",
           "props": Object {
             "location": "NORTHGLENN-THORNTON 12",
@@ -13804,7 +13804,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.8100094619115721",
+          "key": "0.007070705226117413",
           "nodeType": "function",
           "props": Object {
             "location": "NORWOOD R-2J",
@@ -13828,7 +13828,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.46636975753108634",
+          "key": "0.7874564286990928",
           "nodeType": "function",
           "props": Object {
             "location": "OTIS R-3",
@@ -13852,7 +13852,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.922778789870188",
+          "key": "0.7870856552963459",
           "nodeType": "function",
           "props": Object {
             "location": "OURAY R-1",
@@ -13876,7 +13876,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.975709854892006",
+          "key": "0.10166956300280638",
           "nodeType": "function",
           "props": Object {
             "location": "PARK (ESTES PARK) R-3",
@@ -13900,7 +13900,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.006338131067669117",
+          "key": "0.8964217426397665",
           "nodeType": "function",
           "props": Object {
             "location": "PARK COUNTY RE-2",
@@ -13924,7 +13924,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.8900892914399916",
+          "key": "0.8457493824658227",
           "nodeType": "function",
           "props": Object {
             "location": "PAWNEE RE-12",
@@ -13948,7 +13948,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.05572629479485092",
+          "key": "0.23326768538740095",
           "nodeType": "function",
           "props": Object {
             "location": "PEYTON 23 JT",
@@ -13972,7 +13972,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.629974771779299",
+          "key": "0.8987302073624168",
           "nodeType": "function",
           "props": Object {
             "location": "PLAINVIEW RE-2",
@@ -13996,7 +13996,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.18854446645034195",
+          "key": "0.41541781742228157",
           "nodeType": "function",
           "props": Object {
             "location": "PLATEAU RE-5",
@@ -14020,7 +14020,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.14732705174454308",
+          "key": "0.9947355404299851",
           "nodeType": "function",
           "props": Object {
             "location": "PLATEAU VALLEY 50",
@@ -14044,7 +14044,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.1849570531798923",
+          "key": "0.8669695470528351",
           "nodeType": "function",
           "props": Object {
             "location": "PLATTE CANYON 1",
@@ -14068,7 +14068,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.3991210642605385",
+          "key": "0.10018089413874876",
           "nodeType": "function",
           "props": Object {
             "location": "PLATTE VALLEY RE-3",
@@ -14092,7 +14092,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.023470392220813707",
+          "key": "0.8963467275913171",
           "nodeType": "function",
           "props": Object {
             "location": "PLATTE VALLEY RE-7",
@@ -14116,7 +14116,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.7123961325373971",
+          "key": "0.3289777656504438",
           "nodeType": "function",
           "props": Object {
             "location": "POUDRE R-1",
@@ -14140,7 +14140,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.17109971904343313",
+          "key": "0.8251101350646743",
           "nodeType": "function",
           "props": Object {
             "location": "PRAIRIE RE-11",
@@ -14164,7 +14164,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.7802038861234342",
+          "key": "0.5207100643035185",
           "nodeType": "function",
           "props": Object {
             "location": "PRIMERO REORGANIZED 2",
@@ -14188,7 +14188,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.7159911524347078",
+          "key": "0.8065062883022482",
           "nodeType": "function",
           "props": Object {
             "location": "PRITCHETT RE-3",
@@ -14212,7 +14212,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.27571220403001107",
+          "key": "0.9330604337801744",
           "nodeType": "function",
           "props": Object {
             "location": "PUEBLO CITY 60",
@@ -14236,7 +14236,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.45239590672216523",
+          "key": "0.881993779985381",
           "nodeType": "function",
           "props": Object {
             "location": "PUEBLO COUNTY RURAL 70",
@@ -14260,7 +14260,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.7712939201730229",
+          "key": "0.4968256361798098",
           "nodeType": "function",
           "props": Object {
             "location": "RANGELY RE-4",
@@ -14284,7 +14284,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.9207235105124694",
+          "key": "0.9897722723929052",
           "nodeType": "function",
           "props": Object {
             "location": "RIDGWAY R-2",
@@ -14308,7 +14308,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.8196249257909858",
+          "key": "0.8296672493471753",
           "nodeType": "function",
           "props": Object {
             "location": "ROARING FORK RE-1",
@@ -14332,7 +14332,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.17005704282231915",
+          "key": "0.5761403306759196",
           "nodeType": "function",
           "props": Object {
             "location": "ROCKY FORD R-2",
@@ -14356,7 +14356,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.3055403185825143",
+          "key": "0.2808871822156698",
           "nodeType": "function",
           "props": Object {
             "location": "SALIDA R-32",
@@ -14380,7 +14380,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.6415142413877015",
+          "key": "0.610408667006171",
           "nodeType": "function",
           "props": Object {
             "location": "SANFORD 6J",
@@ -14404,7 +14404,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.011994039959242198",
+          "key": "0.664550203465933",
           "nodeType": "function",
           "props": Object {
             "location": "SANGRE DE CRISTO RE-22J",
@@ -14428,7 +14428,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.3801950223505768",
+          "key": "0.8886713746693238",
           "nodeType": "function",
           "props": Object {
             "location": "SARGENT RE-33J",
@@ -14452,7 +14452,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.8827738186847764",
+          "key": "0.8411698508736905",
           "nodeType": "function",
           "props": Object {
             "location": "SHERIDAN 2",
@@ -14476,7 +14476,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.9508306459535123",
+          "key": "0.9920599543962725",
           "nodeType": "function",
           "props": Object {
             "location": "SIERRA GRANDE R-30",
@@ -14500,7 +14500,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.7250406078302134",
+          "key": "0.5024121585431889",
           "nodeType": "function",
           "props": Object {
             "location": "SILVERTON 1",
@@ -14524,7 +14524,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.21666104319781687",
+          "key": "0.5001661749316049",
           "nodeType": "function",
           "props": Object {
             "location": "SOUTH CONEJOS RE-10",
@@ -14548,7 +14548,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.10398535310814716",
+          "key": "0.7263214875337918",
           "nodeType": "function",
           "props": Object {
             "location": "SOUTH ROUTT RE 3",
@@ -14572,7 +14572,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.506660598367443",
+          "key": "0.801437012444558",
           "nodeType": "function",
           "props": Object {
             "location": "SPRINGFIELD RE-4",
@@ -14596,7 +14596,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.38783109234540514",
+          "key": "0.4545419046281378",
           "nodeType": "function",
           "props": Object {
             "location": "ST VRAIN VALLEY RE 1J",
@@ -14620,7 +14620,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.4528131975168943",
+          "key": "0.4118236554261976",
           "nodeType": "function",
           "props": Object {
             "location": "STEAMBOAT SPRINGS RE-2",
@@ -14644,7 +14644,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.4490744295629725",
+          "key": "0.16036967070656072",
           "nodeType": "function",
           "props": Object {
             "location": "STRASBURG 31J",
@@ -14668,7 +14668,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.885501723325623",
+          "key": "0.4867365743824743",
           "nodeType": "function",
           "props": Object {
             "location": "STRATTON R-4",
@@ -14692,7 +14692,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.2755706488633509",
+          "key": "0.355597856180222",
           "nodeType": "function",
           "props": Object {
             "location": "SUMMIT RE-1",
@@ -14716,7 +14716,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.6853261170889986",
+          "key": "0.48892636207019846",
           "nodeType": "function",
           "props": Object {
             "location": "SWINK 33",
@@ -14740,7 +14740,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.1870632417731588",
+          "key": "0.5494030303743316",
           "nodeType": "function",
           "props": Object {
             "location": "TELLURIDE R-1",
@@ -14764,7 +14764,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.8210155727938988",
+          "key": "0.08028292850064367",
           "nodeType": "function",
           "props": Object {
             "location": "THOMPSON R-2J",
@@ -14788,7 +14788,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.3098817413786812",
+          "key": "0.1548995229553638",
           "nodeType": "function",
           "props": Object {
             "location": "TRINIDAD 1",
@@ -14812,7 +14812,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.7944326772789638",
+          "key": "0.9273090758107669",
           "nodeType": "function",
           "props": Object {
             "location": "VALLEY RE-1",
@@ -14836,7 +14836,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.35418428720243744",
+          "key": "0.46599920869349565",
           "nodeType": "function",
           "props": Object {
             "location": "VILAS RE-5",
@@ -14860,7 +14860,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.316011104655592",
+          "key": "0.8128853174289128",
           "nodeType": "function",
           "props": Object {
             "location": "WALSH RE-1",
@@ -14884,7 +14884,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.006886845561432153",
+          "key": "0.3641970142746651",
           "nodeType": "function",
           "props": Object {
             "location": "WELD COUNTY RE-1",
@@ -14908,7 +14908,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.717125772982474",
+          "key": "0.4973899513363993",
           "nodeType": "function",
           "props": Object {
             "location": "WELD COUNTY S/D RE-8",
@@ -14932,7 +14932,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.9498034412216119",
+          "key": "0.4579319551291361",
           "nodeType": "function",
           "props": Object {
             "location": "WELDON VALLEY RE-20(J)",
@@ -14956,7 +14956,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.6877422799443214",
+          "key": "0.3880892282039201",
           "nodeType": "function",
           "props": Object {
             "location": "WEST END RE-2",
@@ -14980,7 +14980,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.048509218000808874",
+          "key": "0.3731005521461215",
           "nodeType": "function",
           "props": Object {
             "location": "WEST GRAND 1-JT",
@@ -15004,7 +15004,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.037154132137742435",
+          "key": "0.4361927846386142",
           "nodeType": "function",
           "props": Object {
             "location": "WEST YUMA COUNTY RJ-1",
@@ -15028,7 +15028,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.8421260475788805",
+          "key": "0.19377960047414367",
           "nodeType": "function",
           "props": Object {
             "location": "WESTMINSTER 50",
@@ -15052,7 +15052,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.676512139710367",
+          "key": "0.0725695863976461",
           "nodeType": "function",
           "props": Object {
             "location": "WIDEFIELD 3",
@@ -15076,7 +15076,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.020628222000818264",
+          "key": "0.3325630053477018",
           "nodeType": "function",
           "props": Object {
             "location": "WIGGINS RE-50(J)",
@@ -15100,7 +15100,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.9533740771447612",
+          "key": "0.1419260065410981",
           "nodeType": "function",
           "props": Object {
             "location": "WILEY RE-13 JT",
@@ -15124,7 +15124,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.9355620163469274",
+          "key": "0.7003586171218121",
           "nodeType": "function",
           "props": Object {
             "location": "WINDSOR RE-4",
@@ -15148,7 +15148,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.31429461305299955",
+          "key": "0.6704386525562012",
           "nodeType": "function",
           "props": Object {
             "location": "WOODLAND PARK RE-2",
@@ -15172,7 +15172,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.4161566463261219",
+          "key": "0.3833875115272283",
           "nodeType": "function",
           "props": Object {
             "location": "WOODLIN R-104",
@@ -15196,7 +15196,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.6019440318154259",
+          "key": "0.7373303152898667",
           "nodeType": "function",
           "props": Object {
             "location": "WRAY SCHOOL DISTRICT RD-2",
@@ -15220,7 +15220,7 @@ ShallowWrapper {
         },
         Object {
           "instance": null,
-          "key": "0.8837922435202465",
+          "key": "0.7168665127889906",
           "nodeType": "function",
           "props": Object {
             "location": "YUMA SCHOOL DISTRICT 1",
