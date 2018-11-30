@@ -64,4 +64,18 @@ export default class DistrictRepository {
       }, 0) / foundSchoolData.length;
     return Math.round(avg * 1000) / 1000;
   };
+
+  compareDistrictAverages = (schoolName1, schoolName2) => {
+    const schoolOneAvg = this.findAverage(schoolName1);
+
+    const schoolTwoAvg = this.findAverage(schoolName2);
+
+    const compared = Math.round((schoolOneAvg / schoolTwoAvg) * 1000) / 1000;
+
+    return {
+      [schoolName1.toUpperCase()]: schoolOneAvg,
+      [schoolName2.toUpperCase()]: schoolTwoAvg,
+      compared: compared
+    };
+  };
 }

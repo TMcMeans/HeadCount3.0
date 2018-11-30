@@ -19,7 +19,7 @@ describe('DistrictRepository iteration 0', () => {
     ).toEqual(result);
   });
 
-  test.skip('compareDistrictAverages is case insensitive', () => {
+  test('compareDistrictAverages is case insensitive', () => {
     const result = {
       'ACADEMY 20': 0.407,
       'YUMA SCHOOL DISTRICT 1': 0.909,
@@ -30,7 +30,7 @@ describe('DistrictRepository iteration 0', () => {
     ).toEqual(result);
   });
 
-  test.skip('compareDistrictAverages ACADEMY 20 against Colorado', () => {
+  test('compareDistrictAverages ACADEMY 20 against Colorado', () => {
     const result = { 'ACADEMY 20': 0.407, COLORADO: 0.53, compared: 0.768 };
     expect(district.compareDistrictAverages('ACADEMY 20', 'Colorado')).toEqual(
       result
