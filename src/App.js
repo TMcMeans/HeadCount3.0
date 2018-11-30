@@ -24,7 +24,7 @@ class App extends Component {
     const { findAllMatches } = this.state.repository;
     const { inputSearchName } = this.state;
 
-    if (inputSearchName.length > 2) {
+    if (inputSearchName.length > 1) {
       return (
         <div>
           <h1>Welcome to HeadCount 3.0</h1>

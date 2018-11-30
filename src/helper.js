@@ -51,4 +51,17 @@ export default class DistrictRepository {
 
     return matchedData;
   };
+
+  findAverage = schoolName => {
+    const capsSchoolName = schoolName.toUpperCase();
+    const foundSchool = this.findAllMatches(capsSchoolName);
+    const foundSchoolData = Object.values(foundSchool[0].stats);
+
+    const avg =
+      foundSchoolData.reduce((total, datapoint) => {
+        total += datapoint;
+        return total;
+      }, 0) / foundSchoolData.length;
+    return Math.round(avg * 1000) / 1000;
+  };
 }
