@@ -6,18 +6,35 @@ import DistrictRepository from './helper.js';
 import { CardContainer } from './components/CardContainer';
 import SearchInput from './components/SearchInput';
 
+import { CompareCardContainer } from './components/CompareCardContainer';
+import { DH_CHECK_P_NOT_SAFE_PRIME } from 'constants';
+
 class App extends Component {
   constructor() {
     super();
     this.state = {
       repository: new DistrictRepository(kinderData),
-      inputSearchName: ''
+      inputSearchName: '',
+      compareSchoolSelections: []
     };
   }
 
   filterCards = inputSearchName => {
     console.log(inputSearchName);
     this.setState({ inputSearchName });
+  };
+
+  handleCompareSelections = schoolName => {
+    const { compareSchoolSelections } = this.state;
+    if (compareSchoolSelections.length < 2) {
+      this.setState({
+        compareSchoolSelections: [schoolName, ...compareSchoolSelections]
+      });
+    } else {
+      this.setState({
+        compareSchoolSelections: [schoolName]
+      });
+    }
   };
 
   render() {
@@ -39,7 +56,11 @@ class App extends Component {
         <div>
           <h1>Welcome to HeadCount 3.0</h1>
           <SearchInput filterCards={this.filterCards} />
-          <CardContainer findAllMatches={findAllMatches} />
+          <CompareCardContainer />
+          <CardContainer
+            findAllMatches={findAllMatches}
+            handleCompareSelections={this.handleCompareSelections}
+          />
         </div>
       );
     }

@@ -117,7 +117,7 @@ ShallowWrapper {
         "rendered": Array [
           Object {
             "instance": null,
-            "key": "0.6700818760232186",
+            "key": "0.16204108994751687",
             "nodeType": "host",
             "props": Object {
               "children": Array [
@@ -137,7 +137,7 @@ ShallowWrapper {
           },
           Object {
             "instance": null,
-            "key": "0.17053408131699155",
+            "key": "0.505851132322714",
             "nodeType": "host",
             "props": Object {
               "children": Array [
@@ -157,7 +157,7 @@ ShallowWrapper {
           },
           Object {
             "instance": null,
-            "key": "0.11148710382854143",
+            "key": "0.49520038460168814",
             "nodeType": "host",
             "props": Object {
               "children": Array [
@@ -177,7 +177,7 @@ ShallowWrapper {
           },
           Object {
             "instance": null,
-            "key": "0.898957258575793",
+            "key": "0.036331408423250444",
             "nodeType": "host",
             "props": Object {
               "children": Array [
@@ -297,7 +297,7 @@ ShallowWrapper {
           "rendered": Array [
             Object {
               "instance": null,
-              "key": "0.6700818760232186",
+              "key": "0.16204108994751687",
               "nodeType": "host",
               "props": Object {
                 "children": Array [
@@ -317,7 +317,7 @@ ShallowWrapper {
             },
             Object {
               "instance": null,
-              "key": "0.17053408131699155",
+              "key": "0.505851132322714",
               "nodeType": "host",
               "props": Object {
                 "children": Array [
@@ -337,7 +337,7 @@ ShallowWrapper {
             },
             Object {
               "instance": null,
-              "key": "0.11148710382854143",
+              "key": "0.49520038460168814",
               "nodeType": "host",
               "props": Object {
                 "children": Array [
@@ -357,7 +357,7 @@ ShallowWrapper {
             },
             Object {
               "instance": null,
-              "key": "0.898957258575793",
+              "key": "0.036331408423250444",
               "nodeType": "host",
               "props": Object {
                 "children": Array [
