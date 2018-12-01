@@ -44,8 +44,15 @@ class App extends Component {
     if (inputSearchName.length > 1) {
       return (
         <div>
-          <h1>Welcome to HeadCount 3.0</h1>
-          <SearchInput filterCards={this.filterCards} />
+          <hr />
+          <div className="header">
+            <h1 className="title">HeadCount 3.0</h1>
+            <p className="heading">
+              Search test scores by school district or compare two school
+              districts by clicking on them
+            </p>
+            <SearchInput filterCards={this.filterCards} />
+          </div>
           <CardContainer
             findAllMatches={() => findAllMatches(inputSearchName)}
           />
@@ -54,8 +61,15 @@ class App extends Component {
     } else {
       return (
         <div>
-          <h1>Welcome to HeadCount 3.0</h1>
-          <SearchInput filterCards={this.filterCards} />
+          <hr />
+          <div className="header">
+            <h1 className="title">HeadCount 3.0</h1>
+            <p className="heading">
+              Search test scores by school district or compare two school
+              districts by clicking on them
+            </p>
+            <SearchInput filterCards={this.filterCards} />
+          </div>
           <CompareCardContainer
             compareDistrictAverages={compareDistrictAverages}
             compareSchoolSelections={compareSchoolSelections}

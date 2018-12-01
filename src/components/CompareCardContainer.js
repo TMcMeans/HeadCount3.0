@@ -16,7 +16,6 @@ export const CompareCardContainer = ({
           stats={schoolData[0].stats}
           key={Math.random()}
         />
-        <h1>Comparison Area</h1>
       </div>
     );
   } else if (compareSchoolSelections.length === 2) {
@@ -34,14 +33,9 @@ export const CompareCardContainer = ({
           stats={schoolData2[0].stats}
           key={Math.random()}
         />
-        <h1>Comparison Area</h1>
       </div>
     );
   } else {
-    return (
-      <div className="compare-container">
-        <h1>Comparison Area</h1>
-      </div>
-    );
+    return <div className="compare-container" />;
   }
 };
