@@ -1,19 +1,28 @@
-@import url('https://fonts.googleapis.com/css?family=Arvo:400,700');
+@import url('https://fonts.googleapis.com/css?family=Poppins');
 
 .red {
-  color: red;
+  color: grey;
+}
+
+.red:before {
+  content: '- ';
 }
 
 .green {
-  color: green;
+  color: #4a314d;
+}
+
+.green:before {
+  content: '+ ';
 }
 
 .card {
   border: 1px solid #4a314d;
   border-radius: 4px;
   padding: 0.5rem;
-  font-family: 'Arvo', serif;
+  font-family: 'Poppins', sans-serif;
   border-radius: 0px;
+  text-align: center;
 }
 
 .card:hover,
@@ -31,4 +40,13 @@
 
 .card:active {
   background: #f0af4d;
+}
+
+ul {
+  list-style: none;
+  text-align: start;
+}
+
+h1 {
+  font-size: 1.2em;
 }

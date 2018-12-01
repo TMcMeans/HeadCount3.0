@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Arvo:400,700');
+@import url('https://fonts.googleapis.com/css?family=Poppins');
 
 .title,
 .heading {
-  font-family: 'Arvo', serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 .title {
