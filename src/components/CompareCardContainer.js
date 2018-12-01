@@ -11,20 +11,29 @@ export const CompareCardContainer = ({
     const schoolData = findAllMatches(compareSchoolSelections[0]);
     return (
       <div className="compare-container">
-        <h1>Comparison Area</h1>
         <Card
           location={schoolData[0].location}
           stats={schoolData[0].stats}
           key={Math.random()}
-          //ADD CLASSNAME TO DELETE CARD ONCE CLICKED AGAIN
         />
+        <h1>Comparison Area</h1>
       </div>
     );
-  } else if (compareSchoolSelections.length > 1) {
+  } else if (compareSchoolSelections.length === 2) {
     const schoolData1 = findAllMatches(compareSchoolSelections[0]);
     const schoolData2 = findAllMatches(compareSchoolSelections[1]);
     return (
       <div className="compare-container">
+        <Card
+          location={schoolData1[0].location}
+          stats={schoolData1[0].stats}
+          key={Math.random()}
+        />
+        <Card
+          location={schoolData2[0].location}
+          stats={schoolData2[0].stats}
+          key={Math.random()}
+        />
         <h1>Comparison Area</h1>
       </div>
     );

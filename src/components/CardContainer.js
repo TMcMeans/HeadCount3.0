@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
+import './CardContainer.css';
 import { Card } from './Card';
 
 export const CardContainer = ({ findAllMatches, handleCompareSelections }) => {
@@ -12,7 +13,7 @@ export const CardContainer = ({ findAllMatches, handleCompareSelections }) => {
       handleCompareSelections={handleCompareSelections}
     />
   ));
-  return <div>{schoolCards}</div>;
+  return <div className="card-container">{schoolCards}</div>;
 };
 
 CardContainer.propTypes = {
