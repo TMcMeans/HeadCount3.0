@@ -1,1 +1,31 @@
-/*APP COMPONENT RELATED CSS GOES HERE*/
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+.title,
+.heading {
+  font-family: 'Poppins', sans-serif;
+}
+
+.title {
+  font-size: 2.7em;
+}
+
+.heading {
+  font-size: 1.1em;
+}
+
+hr {
+  height: 80px;
+  width: 100%;
+  margin-top: 0;
+  background: #4a314d;
+  border-bottom: 6px solid #f0af4d;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+.header {
+  width: 85%;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}

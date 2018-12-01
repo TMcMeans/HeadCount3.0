@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 import './Card.css';
 
-export const Card = ({ location, stats }) => {
+export const Card = ({ location, stats, handleCompareSelections }) => {
   const data = Object.entries(stats);
 
   const dataGroup = data.map(datapoint => (
@@ -12,7 +12,12 @@ export const Card = ({ location, stats }) => {
     </li>
   ));
   return (
-    <div className="card">
+    <div
+      className="card"
+      onClick={() => {
+        handleCompareSelections(location);
+      }}
+    >
       <h1>{location}</h1>
       <ul>{dataGroup}</ul>
     </div>

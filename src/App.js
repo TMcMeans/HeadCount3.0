@@ -6,12 +6,16 @@ import DistrictRepository from './helper.js';
 import { CardContainer } from './components/CardContainer';
 import SearchInput from './components/SearchInput';
 
+import { CompareCardContainer } from './components/CompareCardContainer';
+import { DH_CHECK_P_NOT_SAFE_PRIME } from 'constants';
+
 class App extends Component {
   constructor() {
     super();
     this.state = {
       repository: new DistrictRepository(kinderData),
-      inputSearchName: ''
+      inputSearchName: '',
+      compareSchoolSelections: []
     };
   }
 
@@ -20,15 +24,35 @@ class App extends Component {
     this.setState({ inputSearchName });
   };
 
+  handleCompareSelections = schoolName => {
+    const { compareSchoolSelections } = this.state;
+    if (compareSchoolSelections.length < 2) {
+      this.setState({
+        compareSchoolSelections: [schoolName, ...compareSchoolSelections]
+      });
+    } else {
+      this.setState({
+        compareSchoolSelections: [schoolName]
+      });
+    }
+  };
+
   render() {
-    const { findAllMatches } = this.state.repository;
-    const { inputSearchName } = this.state;
+    const { findAllMatches, compareDistrictAverages } = this.state.repository;
+    const { inputSearchName, compareSchoolSelections } = this.state;
 
     if (inputSearchName.length > 1) {
       return (
         <div>
-          <h1>Welcome to HeadCount 3.0</h1>
-          <SearchInput filterCards={this.filterCards} />
+          <hr />
+          <div className="header">
+            <h1 className="title">HeadCount 3.0</h1>
+            <p className="heading">
+              Search test scores by school district or compare two school
+              districts by clicking on them
+            </p>
+            <SearchInput filterCards={this.filterCards} />
+          </div>
           <CardContainer
             findAllMatches={() => findAllMatches(inputSearchName)}
           />
@@ -37,9 +61,24 @@ class App extends Component {
     } else {
       return (
         <div>
-          <h1>Welcome to HeadCount 3.0</h1>
-          <SearchInput filterCards={this.filterCards} />
-          <CardContainer findAllMatches={findAllMatches} />
+          <hr />
+          <div className="header">
+            <h1 className="title">HeadCount 3.0</h1>
+            <p className="heading">
+              Search test scores by school district or compare two school
+              districts by clicking on them
+            </p>
+            <SearchInput filterCards={this.filterCards} />
+          </div>
+          <CompareCardContainer
+            compareDistrictAverages={compareDistrictAverages}
+            compareSchoolSelections={compareSchoolSelections}
+            findAllMatches={findAllMatches}
+          />
+          <CardContainer
+            findAllMatches={findAllMatches}
+            handleCompareSelections={this.handleCompareSelections}
+          />
         </div>
       );
     }
