@@ -1,0 +1,9 @@
+.compare-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-auto-rows: auto;
+  grid-gap: 1rem;
+  width: 85%;
+  margin: 0 auto 100px auto;
+  padding-bottom: 10px;
+}

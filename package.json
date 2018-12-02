@@ -8,9 +8,12 @@
     "react-scripts": "1.1.0"
   },
   "dependencies": {
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "uuid": "^3.3.2"
+    "chart.js": "^2.7.3",
+    "react": "^16.6.3",
+    "react-chartjs-2": "^2.7.4",
+    "react-dom": "^16.6.3",
+    "uuid": "^3.3.2",
+    "victory": "^31.0.1"
   },
   "scripts": {
     "start": "react-scripts start",

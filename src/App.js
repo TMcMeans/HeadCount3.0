@@ -7,7 +7,6 @@ import { CardContainer } from './components/CardContainer';
 import SearchInput from './components/SearchInput';
 
 import { CompareCardContainer } from './components/CompareCardContainer';
-import { DH_CHECK_P_NOT_SAFE_PRIME } from 'constants';
 
 class App extends Component {
   constructor() {
@@ -20,7 +19,6 @@ class App extends Component {
   }
 
   filterCards = inputSearchName => {
-    console.log(inputSearchName);
     this.setState({ inputSearchName });
   };
 
@@ -33,6 +31,17 @@ class App extends Component {
     } else {
       this.setState({
         compareSchoolSelections: [schoolName]
+      });
+    }
+  };
+
+  removeCompareSelections = schoolName => {
+    const { compareSchoolSelections } = this.state;
+    if (compareSchoolSelections.includes(schoolName)) {
+      this.setState({
+        compareSchoolSelections: compareSchoolSelections.filter(
+          school => school !== schoolName
+        )
       });
     }
   };
@@ -53,6 +62,12 @@ class App extends Component {
             </p>
             <SearchInput filterCards={this.filterCards} />
           </div>
+          <CompareCardContainer
+            compareDistrictAverages={compareDistrictAverages}
+            compareSchoolSelections={compareSchoolSelections}
+            findAllMatches={findAllMatches}
+            removeCompareSelections={this.removeCompareSelections}
+          />
           <CardContainer
             findAllMatches={() => findAllMatches(inputSearchName)}
           />
@@ -74,6 +89,7 @@ class App extends Component {
             compareDistrictAverages={compareDistrictAverages}
             compareSchoolSelections={compareSchoolSelections}
             findAllMatches={findAllMatches}
+            removeCompareSelections={this.removeCompareSelections}
           />
           <CardContainer
             findAllMatches={findAllMatches}
