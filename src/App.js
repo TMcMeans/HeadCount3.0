@@ -70,6 +70,7 @@ class App extends Component {
           />
           <CardContainer
             findAllMatches={() => findAllMatches(inputSearchName)}
+            handleCompareSelections={this.handleCompareSelections}
           />
         </div>
       );
