@@ -26,12 +26,14 @@ Fork or clone down this project =>
 
 ![Initial State](assets/desktopview.png)
 
+##
+
 ![Searching by district](assets/search-schools.gif)
+
+##
 
 ![Comparing districts](assets/headcount-pick.gif)
 
 ## Responsive View
 
 ![Responsive Tablet View](assets/tabletview.png)
-
-![Responsive Phone View](assets/phoneview.png)
