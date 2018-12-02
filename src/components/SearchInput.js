@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 
 import './SearchInput.css';
 
@@ -34,3 +35,7 @@ class SearchInput extends Component {
 }
 
 export default SearchInput;
+
+SearchInput.propTypes = {
+  filterCards: PropTypes.func.isRequired
+};

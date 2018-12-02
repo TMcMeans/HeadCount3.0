@@ -7,9 +7,13 @@ import DistrictRepository from '../helper.js';
 
 describe('CardContainer', () => {
   it('should match snapshot with all html elements rendered with correct data', () => {
+    const mockFunc = jest.fn();
     const repository = new DistrictRepository(kinderData);
     const wrapper = shallow(
-      <CardContainer findAllMatches={repository.findAllMatches} />
+      <CardContainer
+        findAllMatches={repository.findAllMatches}
+        handleCompareSelections={mockFunc}
+      />
     );
 
     expect(wrapper).toMatchSnapshot();

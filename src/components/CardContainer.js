@@ -17,5 +17,6 @@ export const CardContainer = ({ findAllMatches, handleCompareSelections }) => {
 };
 
 CardContainer.propTypes = {
-  findAllMatches: PropTypes.func.isRequired
+  findAllMatches: PropTypes.func.isRequired,
+  handleCompareSelections: PropTypes.func.isRequired
 };
