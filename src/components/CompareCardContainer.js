@@ -1,7 +1,8 @@
 import React from 'react';
+import PropTypes from 'prop-types';
+
 import './CompareCardContainer.css';
 import './CompareCard.css';
-
 import { CompareCard } from './CompareCard';
 
 export const CompareCardContainer = ({
@@ -75,4 +76,11 @@ export const CompareCardContainer = ({
   } else {
     return <div className="compare-container" />;
   }
+};
+
+CompareCardContainer.propTypes = {
+  compareDistrictAverages: PropTypes.func.isRequired,
+  compareSchoolSelections: PropTypes.array.isRequired,
+  findAllMatches: PropTypes.func.isRequired,
+  removeCompareSelections: PropTypes.func.isRequired
 };

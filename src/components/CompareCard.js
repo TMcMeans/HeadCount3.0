@@ -21,3 +21,9 @@ export const CompareCard = ({ location, stats, removeCompareSelections }) => {
     </div>
   );
 };
+
+CompareCard.propTypes = {
+  location: PropTypes.string.isRequired,
+  removeCompareSelections: PropTypes.func.isRequired,
+  stats: PropTypes.object.isRequired
+};

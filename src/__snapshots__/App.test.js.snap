@@ -18,14 +18,33 @@ ShallowWrapper {
     "nodeType": "host",
     "props": Object {
       "children": Array [
-        <h1>
-          Welcome to HeadCount 3.0
-</h1>,
-        <SearchInput
-          filterCards={[Function]}
+        <hr />,
+        <div
+          className="header"
+>
+          <h1
+                    className="title"
+          >
+                    HeadCount 3.0
+          </h1>
+          <p
+                    className="heading"
+          >
+                    Search test scores by school district or compare two school districts by clicking on them
+          </p>
+          <SearchInput
+                    filterCards={[Function]}
+          />
+</div>,
+        <Unknown
+          compareDistrictAverages={[Function]}
+          compareSchoolSelections={Array []}
+          findAllMatches={[Function]}
+          removeCompareSelections={[Function]}
 />,
         <Unknown
           findAllMatches={[Function]}
+          handleCompareSelections={[Function]}
 />,
       ],
     },
@@ -35,19 +54,82 @@ ShallowWrapper {
         "instance": null,
         "key": undefined,
         "nodeType": "host",
-        "props": Object {
-          "children": "Welcome to HeadCount 3.0",
-        },
+        "props": Object {},
         "ref": null,
-        "rendered": "Welcome to HeadCount 3.0",
-        "type": "h1",
+        "rendered": null,
+        "type": "hr",
       },
       Object {
         "instance": null,
         "key": undefined,
-        "nodeType": "class",
+        "nodeType": "host",
         "props": Object {
-          "filterCards": [Function],
+          "children": Array [
+            <h1
+              className="title"
+>
+              HeadCount 3.0
+</h1>,
+            <p
+              className="heading"
+>
+              Search test scores by school district or compare two school districts by clicking on them
+</p>,
+            <SearchInput
+              filterCards={[Function]}
+/>,
+          ],
+          "className": "header",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": "HeadCount 3.0",
+              "className": "title",
+            },
+            "ref": null,
+            "rendered": "HeadCount 3.0",
+            "type": "h1",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": "Search test scores by school district or compare two school districts by clicking on them",
+              "className": "heading",
+            },
+            "ref": null,
+            "rendered": "Search test scores by school district or compare two school districts by clicking on them",
+            "type": "p",
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "filterCards": [Function],
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+        ],
+        "type": "div",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "function",
+        "props": Object {
+          "compareDistrictAverages": [Function],
+          "compareSchoolSelections": Array [],
+          "findAllMatches": [Function],
+          "removeCompareSelections": [Function],
         },
         "ref": null,
         "rendered": null,
@@ -59,6 +141,7 @@ ShallowWrapper {
         "nodeType": "function",
         "props": Object {
           "findAllMatches": [Function],
+          "handleCompareSelections": [Function],
         },
         "ref": null,
         "rendered": null,
@@ -74,14 +157,33 @@ ShallowWrapper {
       "nodeType": "host",
       "props": Object {
         "children": Array [
-          <h1>
-            Welcome to HeadCount 3.0
-</h1>,
-          <SearchInput
-            filterCards={[Function]}
+          <hr />,
+          <div
+            className="header"
+>
+            <h1
+                        className="title"
+            >
+                        HeadCount 3.0
+            </h1>
+            <p
+                        className="heading"
+            >
+                        Search test scores by school district or compare two school districts by clicking on them
+            </p>
+            <SearchInput
+                        filterCards={[Function]}
+            />
+</div>,
+          <Unknown
+            compareDistrictAverages={[Function]}
+            compareSchoolSelections={Array []}
+            findAllMatches={[Function]}
+            removeCompareSelections={[Function]}
 />,
           <Unknown
             findAllMatches={[Function]}
+            handleCompareSelections={[Function]}
 />,
         ],
       },
@@ -91,19 +193,82 @@ ShallowWrapper {
           "instance": null,
           "key": undefined,
           "nodeType": "host",
-          "props": Object {
-            "children": "Welcome to HeadCount 3.0",
-          },
+          "props": Object {},
           "ref": null,
-          "rendered": "Welcome to HeadCount 3.0",
-          "type": "h1",
+          "rendered": null,
+          "type": "hr",
         },
         Object {
           "instance": null,
           "key": undefined,
-          "nodeType": "class",
+          "nodeType": "host",
           "props": Object {
-            "filterCards": [Function],
+            "children": Array [
+              <h1
+                className="title"
+>
+                HeadCount 3.0
+</h1>,
+              <p
+                className="heading"
+>
+                Search test scores by school district or compare two school districts by clicking on them
+</p>,
+              <SearchInput
+                filterCards={[Function]}
+/>,
+            ],
+            "className": "header",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "HeadCount 3.0",
+                "className": "title",
+              },
+              "ref": null,
+              "rendered": "HeadCount 3.0",
+              "type": "h1",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "Search test scores by school district or compare two school districts by clicking on them",
+                "className": "heading",
+              },
+              "ref": null,
+              "rendered": "Search test scores by school district or compare two school districts by clicking on them",
+              "type": "p",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "filterCards": [Function],
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+          ],
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "function",
+          "props": Object {
+            "compareDistrictAverages": [Function],
+            "compareSchoolSelections": Array [],
+            "findAllMatches": [Function],
+            "removeCompareSelections": [Function],
           },
           "ref": null,
           "rendered": null,
@@ -115,6 +280,7 @@ ShallowWrapper {
           "nodeType": "function",
           "props": Object {
             "findAllMatches": [Function],
+            "handleCompareSelections": [Function],
           },
           "ref": null,
           "rendered": null,

@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 import './CardContainer.css';
-import { Card } from './Card';
+import Card from './Card';
 
 export const CardContainer = ({ findAllMatches, handleCompareSelections }) => {
   const schoolData = findAllMatches();
@@ -17,5 +17,6 @@ export const CardContainer = ({ findAllMatches, handleCompareSelections }) => {
 };
 
 CardContainer.propTypes = {
-  findAllMatches: PropTypes.func.isRequired
+  findAllMatches: PropTypes.func.isRequired,
+  handleCompareSelections: PropTypes.func.isRequired
 };
