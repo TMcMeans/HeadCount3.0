@@ -17,7 +17,8 @@
   content: '+ ';
 }
 
-.compare-card {
+.compare-card,
+.comparison-section {
   border: 1px solid #f0af4d;
   border-radius: 4px;
   padding: 0.5rem;
@@ -25,6 +26,9 @@
   border-radius: 0px;
   text-align: center;
   background: white;
+}
+
+.compare-card {
   cursor: pointer;
 }
 
