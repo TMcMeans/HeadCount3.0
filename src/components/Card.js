@@ -11,13 +11,6 @@ class Card extends Component {
     };
   }
 
-  toggleClass = () => {
-    const currState = this.state.active;
-    this.setState({
-      active: !currState
-    });
-  };
-
   render() {
     const { location, stats, handleCompareSelections } = this.props;
     const data = Object.entries(stats);
@@ -30,7 +23,6 @@ class Card extends Component {
       <div
         className={this.state.active ? 'card-active card' : 'card'}
         onClick={() => {
-          this.toggleClass();
           handleCompareSelections(location);
         }}
       >
