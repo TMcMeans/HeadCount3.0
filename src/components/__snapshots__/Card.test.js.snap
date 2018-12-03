@@ -11,7 +11,7 @@ exports[`Card should match snapshot with all html elements rendered with correct
   <ul>
     <li
       className="green"
-      key="0.5820427475701166"
+      key="0.7777234738284875"
     >
       2012
       : 
@@ -19,7 +19,7 @@ exports[`Card should match snapshot with all html elements rendered with correct
     </li>
     <li
       className="green"
-      key="0.4151093458805002"
+      key="0.15964894080555192"
     >
       2013
       : 
@@ -27,7 +27,7 @@ exports[`Card should match snapshot with all html elements rendered with correct
     </li>
     <li
       className="red"
-      key="0.9456458212112984"
+      key="0.7816532138518022"
     >
       2014
       : 
@@ -35,7 +35,7 @@ exports[`Card should match snapshot with all html elements rendered with correct
     </li>
     <li
       className="green"
-      key="0.16238363033704073"
+      key="0.9523854510442538"
     >
       2015
       : 

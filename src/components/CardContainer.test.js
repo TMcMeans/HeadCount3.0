@@ -13,6 +13,7 @@ describe('CardContainer', () => {
       <CardContainer
         findAllMatches={repository.findAllMatches}
         handleCompareSelections={mockFunc}
+        compareSchoolSelections={['COLORADO', 'ADAMS COUNTY 14']}
       />
     );
 

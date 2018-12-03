@@ -4,9 +4,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
 <div
   className="card-container"
 >
-  <Card
+  <Component
+    className="card card-active"
     handleCompareSelections={[Function]}
-    key="0.21698598502975996"
+    key="0.49987345181639364"
     location="COLORADO"
     stats={
       Object {
@@ -24,9 +25,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.0969047723432992"
+    key="0.980605812429167"
     location="ACADEMY 20"
     stats={
       Object {
@@ -44,9 +46,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card card-active"
     handleCompareSelections={[Function]}
-    key="0.43810113553284924"
+    key="0.335097569777707"
     location="ADAMS COUNTY 14"
     stats={
       Object {
@@ -64,9 +67,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.06115296841677109"
+    key="0.4192457307514199"
     location="ADAMS-ARAPAHOE 28J"
     stats={
       Object {
@@ -84,9 +88,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.5500853002832957"
+    key="0.12427794660631375"
     location="AGATE 300"
     stats={
       Object {
@@ -104,9 +109,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.41680280472761333"
+    key="0.9414350702180969"
     location="AGUILAR REORGANIZED 6"
     stats={
       Object {
@@ -124,9 +130,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.5080587588450525"
+    key="0.5754462321607121"
     location="AKRON R-1"
     stats={
       Object {
@@ -144,9 +151,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.0782990441833431"
+    key="0.20612018541259203"
     location="ALAMOSA RE-11J"
     stats={
       Object {
@@ -164,9 +172,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.9296658284777493"
+    key="0.9664552294863389"
     location="ARCHULETA COUNTY 50 JT"
     stats={
       Object {
@@ -184,9 +193,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.19418005882379052"
+    key="0.3087151556271581"
     location="ARICKAREE R-2"
     stats={
       Object {
@@ -204,9 +214,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.21396339203031722"
+    key="0.6905351159674482"
     location="ARRIBA-FLAGLER C-20"
     stats={
       Object {
@@ -224,9 +235,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.8296273576762638"
+    key="0.3635957282355482"
     location="ASPEN 1"
     stats={
       Object {
@@ -244,9 +256,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.05474487722404264"
+    key="0.47298734896219785"
     location="AULT-HIGHLAND RE-9"
     stats={
       Object {
@@ -264,9 +277,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.867962863930924"
+    key="0.9489467267920577"
     location="BAYFIELD 10 JT-R"
     stats={
       Object {
@@ -284,9 +298,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.6470895286781109"
+    key="0.05428247746042891"
     location="BENNETT 29J"
     stats={
       Object {
@@ -304,9 +319,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.6706515708827536"
+    key="0.8354951419437164"
     location="BETHUNE R-5"
     stats={
       Object {
@@ -324,9 +340,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.6089219910383525"
+    key="0.40016423277453983"
     location="BIG SANDY 100J"
     stats={
       Object {
@@ -344,9 +361,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.27149276898151786"
+    key="0.24524922181643483"
     location="BOULDER VALLEY RE 2"
     stats={
       Object {
@@ -364,9 +382,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.03453119416483319"
+    key="0.46890495959241996"
     location="BRANSON REORGANIZED 82"
     stats={
       Object {
@@ -384,9 +403,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.7876107747637249"
+    key="0.7531216779867407"
     location="BRIGGSDALE RE-10"
     stats={
       Object {
@@ -404,9 +424,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.5752830010148895"
+    key="0.5418280625852139"
     location="BRIGHTON 27J"
     stats={
       Object {
@@ -424,9 +445,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.6823404866050733"
+    key="0.9786021364078239"
     location="BRUSH RE-2(J)"
     stats={
       Object {
@@ -444,9 +466,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.461770554089036"
+    key="0.5585449811735059"
     location="BUENA VISTA R-31"
     stats={
       Object {
@@ -464,9 +487,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.9518829213806632"
+    key="0.984955009040428"
     location="BUFFALO RE-4"
     stats={
       Object {
@@ -484,9 +508,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.9538103813856533"
+    key="0.0008220022136680161"
     location="BURLINGTON RE-6J"
     stats={
       Object {
@@ -504,9 +529,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.2119000775860631"
+    key="0.43645293715255584"
     location="BYERS 32J"
     stats={
       Object {
@@ -524,9 +550,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.19414257357400722"
+    key="0.17449072345926897"
     location="CALHAN RJ-1"
     stats={
       Object {
@@ -544,9 +571,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.17238439986344845"
+    key="0.7471315892359267"
     location="CAMPO RE-6"
     stats={
       Object {
@@ -564,9 +592,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.43940107812566165"
+    key="0.6515458164395769"
     location="CANON CITY RE-1"
     stats={
       Object {
@@ -584,9 +613,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.48722263651655284"
+    key="0.07989731787225862"
     location="CENTENNIAL R-1"
     stats={
       Object {
@@ -604,9 +634,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.7007515846489436"
+    key="0.7740894866634085"
     location="CENTER 26 JT"
     stats={
       Object {
@@ -624,9 +655,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.9334603268382657"
+    key="0.8124900303948652"
     location="CHERAW 31"
     stats={
       Object {
@@ -644,9 +676,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.6876220020143997"
+    key="0.12721018794037775"
     location="CHERRY CREEK 5"
     stats={
       Object {
@@ -664,9 +697,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.281908924934237"
+    key="0.14037284665917404"
     location="CHEYENNE COUNTY RE-5"
     stats={
       Object {
@@ -684,9 +718,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.7842742485250791"
+    key="0.7129814285933744"
     location="CHEYENNE MOUNTAIN 12"
     stats={
       Object {
@@ -704,9 +739,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.5301122680050547"
+    key="0.602875224240842"
     location="CLEAR CREEK RE-1"
     stats={
       Object {
@@ -724,9 +760,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.9225068919920809"
+    key="0.15549393466812678"
     location="COLORADO SPRINGS 11"
     stats={
       Object {
@@ -744,9 +781,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.7523963011323589"
+    key="0.020365652315993632"
     location="COTOPAXI RE-3"
     stats={
       Object {
@@ -764,9 +802,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.46129433786186524"
+    key="0.318649138371526"
     location="CREEDE CONSOLIDATED 1"
     stats={
       Object {
@@ -784,9 +823,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.06458596322427046"
+    key="0.5711843206384115"
     location="CRIPPLE CREEK-VICTOR RE-1"
     stats={
       Object {
@@ -804,9 +844,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.6612490492968961"
+    key="0.1887995240498901"
     location="CROWLEY COUNTY RE-1-J"
     stats={
       Object {
@@ -824,9 +865,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.24981363837247628"
+    key="0.9085285935549396"
     location="CUSTER COUNTY SCHOOL DISTRICT C-1"
     stats={
       Object {
@@ -844,9 +886,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.922855519766189"
+    key="0.995478232796984"
     location="DE BEQUE 49JT"
     stats={
       Object {
@@ -864,9 +907,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.7561453679074628"
+    key="0.7368321822394865"
     location="DEER TRAIL 26J"
     stats={
       Object {
@@ -884,9 +928,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.44270472418239537"
+    key="0.5731057137073632"
     location="DEL NORTE C-7"
     stats={
       Object {
@@ -904,9 +949,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.6183499182266996"
+    key="0.9375984832701936"
     location="DELTA COUNTY 50(J)"
     stats={
       Object {
@@ -924,9 +970,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.6244152140297821"
+    key="0.6922963315841444"
     location="DENVER COUNTY 1"
     stats={
       Object {
@@ -944,9 +991,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.48766404859329104"
+    key="0.08710534033568895"
     location="DOLORES COUNTY RE NO.2"
     stats={
       Object {
@@ -964,9 +1012,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.8290600834979895"
+    key="0.808896473312394"
     location="DOLORES RE-4A"
     stats={
       Object {
@@ -984,9 +1033,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.6389555729104679"
+    key="0.806793274404445"
     location="DOUGLAS COUNTY RE 1"
     stats={
       Object {
@@ -1004,9 +1054,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.41048809601444125"
+    key="0.21082158689668917"
     location="DURANGO 9-R"
     stats={
       Object {
@@ -1024,9 +1075,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.9210744682310916"
+    key="0.8479552854310546"
     location="EADS RE-1"
     stats={
       Object {
@@ -1044,9 +1096,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.6785497251053847"
+    key="0.0578662590901009"
     location="EAGLE COUNTY RE 50"
     stats={
       Object {
@@ -1064,9 +1117,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.8932790909809203"
+    key="0.6137159582006539"
     location="EAST GRAND 2"
     stats={
       Object {
@@ -1084,9 +1138,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.05493070674988698"
+    key="0.61817682332472"
     location="EAST OTERO R-1"
     stats={
       Object {
@@ -1104,9 +1159,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.3535769812535632"
+    key="0.7272364433650165"
     location="EAST YUMA COUNTY RJ-2"
     stats={
       Object {
@@ -1124,9 +1180,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.5696746361917888"
+    key="0.9079148486804154"
     location="EATON RE-2"
     stats={
       Object {
@@ -1144,9 +1201,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.7012265316936706"
+    key="0.35297425357993983"
     location="EDISON 54 JT"
     stats={
       Object {
@@ -1164,9 +1222,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.2766563037677314"
+    key="0.04838163641302384"
     location="ELBERT 200"
     stats={
       Object {
@@ -1184,9 +1243,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.9788922766805699"
+    key="0.5055046260302363"
     location="ELIZABETH C-1"
     stats={
       Object {
@@ -1204,9 +1264,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.5929057269023761"
+    key="0.19435457874565354"
     location="ELLICOTT 22"
     stats={
       Object {
@@ -1224,9 +1285,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.235635235214801"
+    key="0.3937540313579191"
     location="ENGLEWOOD 1"
     stats={
       Object {
@@ -1244,9 +1306,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.7009337441126793"
+    key="0.4784558136461792"
     location="FALCON 49"
     stats={
       Object {
@@ -1264,9 +1327,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.3965836826228182"
+    key="0.7515882754206491"
     location="FLORENCE RE-2"
     stats={
       Object {
@@ -1284,9 +1348,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.02859706730269007"
+    key="0.3528257482675179"
     location="FORT MORGAN RE-3"
     stats={
       Object {
@@ -1304,9 +1369,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.8284705550561171"
+    key="0.09212440562444013"
     location="FOUNTAIN 8"
     stats={
       Object {
@@ -1324,9 +1390,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.8923556946126008"
+    key="0.3379985774610219"
     location="FOWLER R-4J"
     stats={
       Object {
@@ -1344,9 +1411,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.0072647285795146566"
+    key="0.2770287934659432"
     location="FRENCHMAN RE-3"
     stats={
       Object {
@@ -1364,9 +1432,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.7744338914932043"
+    key="0.34304310282352146"
     location="GARFIELD 16"
     stats={
       Object {
@@ -1384,9 +1453,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.16340387336140294"
+    key="0.8943646633350697"
     location="GARFIELD RE-2"
     stats={
       Object {
@@ -1404,9 +1474,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.9678710755261326"
+    key="0.6021518670090016"
     location="GENOA-HUGO C113"
     stats={
       Object {
@@ -1424,9 +1495,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.6873742496778992"
+    key="0.19837933278496966"
     location="GILPIN COUNTY RE-1"
     stats={
       Object {
@@ -1444,9 +1516,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.4508794247672203"
+    key="0.3007522456354528"
     location="GRANADA RE-1"
     stats={
       Object {
@@ -1464,9 +1537,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.7218958083056608"
+    key="0.6815452041533991"
     location="GREELEY 6"
     stats={
       Object {
@@ -1484,9 +1558,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.5279152707809882"
+    key="0.36906909559596124"
     location="GUNNISON WATERSHED RE1J"
     stats={
       Object {
@@ -1504,9 +1579,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.17556162451176505"
+    key="0.8434669124567291"
     location="HANOVER 28"
     stats={
       Object {
@@ -1524,9 +1600,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.512064080884157"
+    key="0.6329151738212946"
     location="HARRISON 2"
     stats={
       Object {
@@ -1544,9 +1621,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.8758807743773638"
+    key="0.7767001362946246"
     location="HAXTUN RE-2J"
     stats={
       Object {
@@ -1564,9 +1642,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.23799000974758378"
+    key="0.02735708888938526"
     location="HAYDEN RE-1"
     stats={
       Object {
@@ -1584,9 +1663,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.5261851391791748"
+    key="0.8245342473947428"
     location="HINSDALE COUNTY RE 1"
     stats={
       Object {
@@ -1604,9 +1684,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.35493468536066164"
+    key="0.026636329149812843"
     location="HI-PLAINS R-23"
     stats={
       Object {
@@ -1624,9 +1705,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.6463902060864009"
+    key="0.8026706430592903"
     location="HOEHNE REORGANIZED 3"
     stats={
       Object {
@@ -1644,9 +1726,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.5488047908602418"
+    key="0.6987265565657164"
     location="HOLLY RE-3"
     stats={
       Object {
@@ -1664,9 +1747,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.3325200593315474"
+    key="0.89545047222565"
     location="HOLYOKE RE-1J"
     stats={
       Object {
@@ -1684,9 +1768,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.279810609569799"
+    key="0.5908387172400107"
     location="HUERFANO RE-1"
     stats={
       Object {
@@ -1704,9 +1789,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.31923552000947386"
+    key="0.6556231925974558"
     location="IDALIA SCHOOL DISTRICT RJ-3"
     stats={
       Object {
@@ -1724,9 +1810,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.8952509301574678"
+    key="0.33500364618454537"
     location="IGNACIO 11 JT"
     stats={
       Object {
@@ -1744,9 +1831,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.7555316769731117"
+    key="0.5036917996383921"
     location="JEFFERSON COUNTY R-1"
     stats={
       Object {
@@ -1764,9 +1852,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.47629724303789334"
+    key="0.9905923855322576"
     location="JOHNSTOWN-MILLIKEN RE-5J"
     stats={
       Object {
@@ -1784,9 +1873,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.2779683397467294"
+    key="0.09713117902324919"
     location="JULESBURG RE-1"
     stats={
       Object {
@@ -1804,9 +1894,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.7862372369804698"
+    key="0.6439013670842837"
     location="KARVAL RE-23"
     stats={
       Object {
@@ -1824,9 +1915,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.655908425815944"
+    key="0.6234455171844211"
     location="KEENESBURG RE-3(J)"
     stats={
       Object {
@@ -1844,9 +1936,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.585112182613686"
+    key="0.3744061703211412"
     location="KIM REORGANIZED 88"
     stats={
       Object {
@@ -1864,9 +1957,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.7215857411172666"
+    key="0.3347465005444983"
     location="KIOWA C-2"
     stats={
       Object {
@@ -1884,9 +1978,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.8914540701181657"
+    key="0.9439151118054501"
     location="KIT CARSON R-1"
     stats={
       Object {
@@ -1904,9 +1999,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.37600061537402385"
+    key="0.004096086841775426"
     location="LA VETA RE-2"
     stats={
       Object {
@@ -1924,9 +2020,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.7937148134519256"
+    key="0.018974782614706642"
     location="LAKE COUNTY R-1"
     stats={
       Object {
@@ -1944,9 +2041,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.8980221029242461"
+    key="0.18121798836867153"
     location="LAMAR RE-2"
     stats={
       Object {
@@ -1964,9 +2062,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.395341211163589"
+    key="0.46619988410154245"
     location="LAS ANIMAS RE-1"
     stats={
       Object {
@@ -1984,9 +2083,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.1589814627758317"
+    key="0.6091882647456481"
     location="LEWIS-PALMER 38"
     stats={
       Object {
@@ -2004,9 +2104,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.3542439302031646"
+    key="0.18704886009930788"
     location="LIBERTY SCHOOL DISTRICT J-4"
     stats={
       Object {
@@ -2024,9 +2125,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.6821654434895925"
+    key="0.9337762643401846"
     location="LIMON RE-4J"
     stats={
       Object {
@@ -2044,9 +2146,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.6013686372010711"
+    key="0.6273247145307441"
     location="LITTLETON 6"
     stats={
       Object {
@@ -2064,9 +2167,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.44223338875562024"
+    key="0.16186791965582015"
     location="LONE STAR 101"
     stats={
       Object {
@@ -2084,9 +2188,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.5884981435975458"
+    key="0.6225571711688629"
     location="MANCOS RE-6"
     stats={
       Object {
@@ -2104,9 +2209,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.3593360379281165"
+    key="0.14696914854336662"
     location="MANITOU SPRINGS 14"
     stats={
       Object {
@@ -2124,9 +2230,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.14493874973437082"
+    key="0.876756776765993"
     location="MANZANOLA 3J"
     stats={
       Object {
@@ -2144,9 +2251,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.8756959618761877"
+    key="0.24625259457702664"
     location="MAPLETON 1"
     stats={
       Object {
@@ -2164,9 +2272,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.3546017550378524"
+    key="0.7952983476267093"
     location="MC CLAVE RE-2"
     stats={
       Object {
@@ -2184,9 +2293,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.29574897196657246"
+    key="0.8835379015499543"
     location="MEEKER RE1"
     stats={
       Object {
@@ -2204,9 +2314,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.34323783127558793"
+    key="0.8385801045693821"
     location="MESA COUNTY VALLEY 51"
     stats={
       Object {
@@ -2224,9 +2335,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.434123596202735"
+    key="0.2961944925160567"
     location="MIAMI/YODER 60 JT"
     stats={
       Object {
@@ -2244,9 +2356,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.1490638339899737"
+    key="0.641720200270224"
     location="MOFFAT 2"
     stats={
       Object {
@@ -2264,9 +2377,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.7981050115528072"
+    key="0.5085234388336124"
     location="MOFFAT COUNTY RE:NO 1"
     stats={
       Object {
@@ -2284,9 +2398,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.48504127757635396"
+    key="0.6259542973530037"
     location="MONTE VISTA C-8"
     stats={
       Object {
@@ -2304,9 +2419,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.7020051432328132"
+    key="0.08163628614883556"
     location="MONTEZUMA-CORTEZ RE-1"
     stats={
       Object {
@@ -2324,9 +2440,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.4928403223575648"
+    key="0.5705509013806542"
     location="MONTROSE COUNTY RE-1J"
     stats={
       Object {
@@ -2344,9 +2461,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.9359431056420335"
+    key="0.673265927835951"
     location="MOUNTAIN VALLEY RE 1"
     stats={
       Object {
@@ -2364,9 +2482,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.7347532257814633"
+    key="0.3537776771558043"
     location="NORTH CONEJOS RE-1J"
     stats={
       Object {
@@ -2384,9 +2503,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.09224083384296566"
+    key="0.6890795206608156"
     location="NORTH PARK R-1"
     stats={
       Object {
@@ -2404,9 +2524,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.20071281174745081"
+    key="0.21106518680528819"
     location="NORTHGLENN-THORNTON 12"
     stats={
       Object {
@@ -2424,9 +2545,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.855163654335855"
+    key="0.47908481734891684"
     location="NORWOOD R-2J"
     stats={
       Object {
@@ -2444,9 +2566,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.6442182589962344"
+    key="0.4726398831745071"
     location="OTIS R-3"
     stats={
       Object {
@@ -2464,9 +2587,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.5996753209161956"
+    key="0.025757897760889437"
     location="OURAY R-1"
     stats={
       Object {
@@ -2484,9 +2608,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.892991295372159"
+    key="0.15320862500575094"
     location="PARK (ESTES PARK) R-3"
     stats={
       Object {
@@ -2504,9 +2629,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.6378778991533569"
+    key="0.9654864789304649"
     location="PARK COUNTY RE-2"
     stats={
       Object {
@@ -2524,9 +2650,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.6605489072171173"
+    key="0.8774417582848633"
     location="PAWNEE RE-12"
     stats={
       Object {
@@ -2544,9 +2671,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.5263698683633888"
+    key="0.8253606694483822"
     location="PEYTON 23 JT"
     stats={
       Object {
@@ -2564,9 +2692,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.34286196225109666"
+    key="0.3775388553379353"
     location="PLAINVIEW RE-2"
     stats={
       Object {
@@ -2584,9 +2713,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.5344705254031057"
+    key="0.8644399904520115"
     location="PLATEAU RE-5"
     stats={
       Object {
@@ -2604,9 +2734,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.6202591124363133"
+    key="0.8527774940973076"
     location="PLATEAU VALLEY 50"
     stats={
       Object {
@@ -2624,9 +2755,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.461720391776939"
+    key="0.9861356025954111"
     location="PLATTE CANYON 1"
     stats={
       Object {
@@ -2644,9 +2776,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.8582022186449281"
+    key="0.9627425905556697"
     location="PLATTE VALLEY RE-3"
     stats={
       Object {
@@ -2664,9 +2797,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.7139349805584987"
+    key="0.591955469037442"
     location="PLATTE VALLEY RE-7"
     stats={
       Object {
@@ -2684,9 +2818,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.7581467613671602"
+    key="0.778792596310758"
     location="POUDRE R-1"
     stats={
       Object {
@@ -2704,9 +2839,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.5870917404463369"
+    key="0.16208004700538448"
     location="PRAIRIE RE-11"
     stats={
       Object {
@@ -2724,9 +2860,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.9612023350876724"
+    key="0.7952495101238659"
     location="PRIMERO REORGANIZED 2"
     stats={
       Object {
@@ -2744,9 +2881,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.6840693555200394"
+    key="0.565694206909741"
     location="PRITCHETT RE-3"
     stats={
       Object {
@@ -2764,9 +2902,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.5099792285578801"
+    key="0.030747919889361652"
     location="PUEBLO CITY 60"
     stats={
       Object {
@@ -2784,9 +2923,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.2975329777989102"
+    key="0.06112698708907183"
     location="PUEBLO COUNTY RURAL 70"
     stats={
       Object {
@@ -2804,9 +2944,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.7772524340465812"
+    key="0.8644549882808303"
     location="RANGELY RE-4"
     stats={
       Object {
@@ -2824,9 +2965,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.9499069991130651"
+    key="0.24596903401922665"
     location="RIDGWAY R-2"
     stats={
       Object {
@@ -2844,9 +2986,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.08400869588303239"
+    key="0.6788126447478309"
     location="ROARING FORK RE-1"
     stats={
       Object {
@@ -2864,9 +3007,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.7149698864355609"
+    key="0.37211166999039924"
     location="ROCKY FORD R-2"
     stats={
       Object {
@@ -2884,9 +3028,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.2002221877260686"
+    key="0.0433412068296013"
     location="SALIDA R-32"
     stats={
       Object {
@@ -2904,9 +3049,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.03440350829966721"
+    key="0.7658478121597334"
     location="SANFORD 6J"
     stats={
       Object {
@@ -2924,9 +3070,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.8722075090611978"
+    key="0.3869094676993299"
     location="SANGRE DE CRISTO RE-22J"
     stats={
       Object {
@@ -2944,9 +3091,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.9655815492454751"
+    key="0.5042323341626094"
     location="SARGENT RE-33J"
     stats={
       Object {
@@ -2964,9 +3112,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.13407062487118537"
+    key="0.373461812971839"
     location="SHERIDAN 2"
     stats={
       Object {
@@ -2984,9 +3133,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.056437357817155975"
+    key="0.5126226951068429"
     location="SIERRA GRANDE R-30"
     stats={
       Object {
@@ -3004,9 +3154,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.2841405413741407"
+    key="0.9835433175910315"
     location="SILVERTON 1"
     stats={
       Object {
@@ -3024,9 +3175,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.49568928846778526"
+    key="0.41290248011822195"
     location="SOUTH CONEJOS RE-10"
     stats={
       Object {
@@ -3044,9 +3196,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.16529775269545777"
+    key="0.8178176291285726"
     location="SOUTH ROUTT RE 3"
     stats={
       Object {
@@ -3064,9 +3217,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.24565453623570277"
+    key="0.8662463891403662"
     location="SPRINGFIELD RE-4"
     stats={
       Object {
@@ -3084,9 +3238,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.7444503138708545"
+    key="0.5689819445340116"
     location="ST VRAIN VALLEY RE 1J"
     stats={
       Object {
@@ -3104,9 +3259,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.31277521794102503"
+    key="0.578575506374692"
     location="STEAMBOAT SPRINGS RE-2"
     stats={
       Object {
@@ -3124,9 +3280,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.06459385157481967"
+    key="0.20399998872815228"
     location="STRASBURG 31J"
     stats={
       Object {
@@ -3144,9 +3301,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.10727711259496164"
+    key="0.7450560511962996"
     location="STRATTON R-4"
     stats={
       Object {
@@ -3164,9 +3322,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.05958843658444457"
+    key="0.15420733360622396"
     location="SUMMIT RE-1"
     stats={
       Object {
@@ -3184,9 +3343,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.16297271108464817"
+    key="0.959128682450489"
     location="SWINK 33"
     stats={
       Object {
@@ -3204,9 +3364,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.19661832735775842"
+    key="0.010140993427653733"
     location="TELLURIDE R-1"
     stats={
       Object {
@@ -3224,9 +3385,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.5572565141097385"
+    key="0.7456747611268109"
     location="THOMPSON R-2J"
     stats={
       Object {
@@ -3244,9 +3406,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.6403474484135698"
+    key="0.04963996121531733"
     location="TRINIDAD 1"
     stats={
       Object {
@@ -3264,9 +3427,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.16380579552133145"
+    key="0.3274754258908832"
     location="VALLEY RE-1"
     stats={
       Object {
@@ -3284,9 +3448,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.16959468765972363"
+    key="0.030312152007856197"
     location="VILAS RE-5"
     stats={
       Object {
@@ -3304,9 +3469,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.1480250174972777"
+    key="0.7762330711231618"
     location="WALSH RE-1"
     stats={
       Object {
@@ -3324,9 +3490,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.4342899863745022"
+    key="0.9216890131542288"
     location="WELD COUNTY RE-1"
     stats={
       Object {
@@ -3344,9 +3511,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.09017274339167303"
+    key="0.6582944988274435"
     location="WELD COUNTY S/D RE-8"
     stats={
       Object {
@@ -3364,9 +3532,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.7798329727692239"
+    key="0.0070016085696436026"
     location="WELDON VALLEY RE-20(J)"
     stats={
       Object {
@@ -3384,9 +3553,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.4812142591426247"
+    key="0.06381849104010984"
     location="WEST END RE-2"
     stats={
       Object {
@@ -3404,9 +3574,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.908198323301475"
+    key="0.8596726456974095"
     location="WEST GRAND 1-JT"
     stats={
       Object {
@@ -3424,9 +3595,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.35551201554848455"
+    key="0.10804431904339729"
     location="WEST YUMA COUNTY RJ-1"
     stats={
       Object {
@@ -3444,9 +3616,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.31228517416037205"
+    key="0.8976921835175056"
     location="WESTMINSTER 50"
     stats={
       Object {
@@ -3464,9 +3637,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.12330003852042082"
+    key="0.25568732228610624"
     location="WIDEFIELD 3"
     stats={
       Object {
@@ -3484,9 +3658,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.715865115396296"
+    key="0.5708318101151972"
     location="WIGGINS RE-50(J)"
     stats={
       Object {
@@ -3504,9 +3679,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.4120284094617206"
+    key="0.8140001906639076"
     location="WILEY RE-13 JT"
     stats={
       Object {
@@ -3524,9 +3700,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.6095444937403502"
+    key="0.9758103967729477"
     location="WINDSOR RE-4"
     stats={
       Object {
@@ -3544,9 +3721,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.9064654771000686"
+    key="0.02686540719257935"
     location="WOODLAND PARK RE-2"
     stats={
       Object {
@@ -3564,9 +3742,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.6049284116722893"
+    key="0.3497166255982813"
     location="WOODLIN R-104"
     stats={
       Object {
@@ -3584,9 +3763,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.442986696985034"
+    key="0.8891121641094466"
     location="WRAY SCHOOL DISTRICT RD-2"
     stats={
       Object {
@@ -3604,9 +3784,10 @@ exports[`CardContainer should match snapshot with all html elements rendered wit
       }
     }
   />
-  <Card
+  <Component
+    className="card"
     handleCompareSelections={[Function]}
-    key="0.2158891705249606"
+    key="0.674972788892716"
     location="YUMA SCHOOL DISTRICT 1"
     stats={
       Object {
