@@ -47,7 +47,7 @@ export const CompareCardContainer = ({
             <h1>
               {comparedDataEntries[0][0]}: {comparedDataEntries[0][1]}
             </h1>
-            <h1>
+            <h1 className="compared">
               COMPARED: <br />
               ---- {comparedDataEntries[2][1]} ----
             </h1>
