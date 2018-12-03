@@ -4,7 +4,7 @@ Team: Tanj McMeans
 
 HeadCount 3.0 is a project designed to challenge my skills at manipulating data and creating small, reusable React components. For each iteration of the project, I focused on being able to access, manipulate, filter, find and compare data using the Colorado Kindergarten school district test scores object as a sample.
 
-This application was built using the `create-react-app` boilerplate and styled and made responsive with CSS.
+This application was built using the `create-react-app` boilerplate, tested with Jest/Enzyme and styled and made responsive with CSS.
 
 Goals for this project =>
 

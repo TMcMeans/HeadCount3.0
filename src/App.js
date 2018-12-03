@@ -57,8 +57,8 @@ class App extends Component {
           <div className="header">
             <h1 className="title">HeadCount 3.0</h1>
             <p className="heading">
-              Search test scores by school district or compare two school
-              districts by clicking on them
+              Search for a school district or compare two school districts by
+              clicking on them
             </p>
             <SearchInput filterCards={this.filterCards} />
           </div>
@@ -81,8 +81,8 @@ class App extends Component {
           <div className="header">
             <h1 className="title">HeadCount 3.0</h1>
             <p className="heading">
-              Search test scores by school district or compare two school
-              districts by clicking on them
+              Search for a school district or compare two school districts by
+              clicking on them
             </p>
             <SearchInput filterCards={this.filterCards} />
           </div>
