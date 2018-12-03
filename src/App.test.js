@@ -20,8 +20,8 @@ describe('App', () => {
       compareSchoolSelections: []
     };
 
-    // expect(wrapper.state()).toEqual(expectedState);
-    expect(wrapper.state().equals(expectedState)).toBe(true);
+    expect(wrapper.state()).toEqual(expectedState);
+    // expect(wrapper.state().equals(expectedState)).toBe(true);
   });
 
   it('should update state with inputSearchName when filterCards is called', () => {

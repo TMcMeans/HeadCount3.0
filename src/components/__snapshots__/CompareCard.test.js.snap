@@ -1,406 +1,46 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Compare Card should match snapshot with all html elements rendered with correct data 1`] = `
-ShallowWrapper {
-  Symbol(enzyme.__root__): [Circular],
-  Symbol(enzyme.__unrendered__): <Unknown
-    location="COLORADO"
-    removeCompareSelections={[Function]}
-    stats={
-        Object {
-            "2012": 1,
-            "2013": 1,
-            "2014": 0,
-            "2015": 0.552,
-          }
-    }
-/>,
-  Symbol(enzyme.__renderer__): Object {
-    "batchedUpdates": [Function],
-    "getNode": [Function],
-    "render": [Function],
-    "simulateError": [Function],
-    "simulateEvent": [Function],
-    "unmount": [Function],
-  },
-  Symbol(enzyme.__node__): Object {
-    "instance": null,
-    "key": undefined,
-    "nodeType": "host",
-    "props": Object {
-      "children": Array [
-        <h1>
-          COLORADO
-</h1>,
-        <ul>
-          <li
-                    className="green"
-          >
-                    2012
-                    : 
-                    1
-          </li>
-          <li
-                    className="green"
-          >
-                    2013
-                    : 
-                    1
-          </li>
-          <li
-                    className="red"
-          >
-                    2014
-                    : 
-                    0
-          </li>
-          <li
-                    className="green"
-          >
-                    2015
-                    : 
-                    0.552
-          </li>
-</ul>,
-      ],
-      "className": "compare-card",
-      "onClick": [Function],
-    },
-    "ref": null,
-    "rendered": Array [
-      Object {
-        "instance": null,
-        "key": undefined,
-        "nodeType": "host",
-        "props": Object {
-          "children": "COLORADO",
-        },
-        "ref": null,
-        "rendered": "COLORADO",
-        "type": "h1",
-      },
-      Object {
-        "instance": null,
-        "key": undefined,
-        "nodeType": "host",
-        "props": Object {
-          "children": Array [
-            <li
-              className="green"
+<div
+  className="compare-card"
+  onClick={[Function]}
 >
-              2012
-              : 
-              1
-</li>,
-            <li
-              className="green"
->
-              2013
-              : 
-              1
-</li>,
-            <li
-              className="red"
->
-              2014
-              : 
-              0
-</li>,
-            <li
-              className="green"
->
-              2015
-              : 
-              0.552
-</li>,
-          ],
-        },
-        "ref": null,
-        "rendered": Array [
-          Object {
-            "instance": null,
-            "key": "0.39799089779913155",
-            "nodeType": "host",
-            "props": Object {
-              "children": Array [
-                "2012",
-                ": ",
-                1,
-              ],
-              "className": "green",
-            },
-            "ref": null,
-            "rendered": Array [
-              "2012",
-              ": ",
-              1,
-            ],
-            "type": "li",
-          },
-          Object {
-            "instance": null,
-            "key": "0.17214374330500548",
-            "nodeType": "host",
-            "props": Object {
-              "children": Array [
-                "2013",
-                ": ",
-                1,
-              ],
-              "className": "green",
-            },
-            "ref": null,
-            "rendered": Array [
-              "2013",
-              ": ",
-              1,
-            ],
-            "type": "li",
-          },
-          Object {
-            "instance": null,
-            "key": "0.2734352943223797",
-            "nodeType": "host",
-            "props": Object {
-              "children": Array [
-                "2014",
-                ": ",
-                0,
-              ],
-              "className": "red",
-            },
-            "ref": null,
-            "rendered": Array [
-              "2014",
-              ": ",
-              0,
-            ],
-            "type": "li",
-          },
-          Object {
-            "instance": null,
-            "key": "0.20754204871294846",
-            "nodeType": "host",
-            "props": Object {
-              "children": Array [
-                "2015",
-                ": ",
-                0.552,
-              ],
-              "className": "green",
-            },
-            "ref": null,
-            "rendered": Array [
-              "2015",
-              ": ",
-              0.552,
-            ],
-            "type": "li",
-          },
-        ],
-        "type": "ul",
-      },
-    ],
-    "type": "div",
-  },
-  Symbol(enzyme.__nodes__): Array [
-    Object {
-      "instance": null,
-      "key": undefined,
-      "nodeType": "host",
-      "props": Object {
-        "children": Array [
-          <h1>
-            COLORADO
-</h1>,
-          <ul>
-            <li
-                        className="green"
-            >
-                        2012
-                        : 
-                        1
-            </li>
-            <li
-                        className="green"
-            >
-                        2013
-                        : 
-                        1
-            </li>
-            <li
-                        className="red"
-            >
-                        2014
-                        : 
-                        0
-            </li>
-            <li
-                        className="green"
-            >
-                        2015
-                        : 
-                        0.552
-            </li>
-</ul>,
-        ],
-        "className": "compare-card",
-        "onClick": [Function],
-      },
-      "ref": null,
-      "rendered": Array [
-        Object {
-          "instance": null,
-          "key": undefined,
-          "nodeType": "host",
-          "props": Object {
-            "children": "COLORADO",
-          },
-          "ref": null,
-          "rendered": "COLORADO",
-          "type": "h1",
-        },
-        Object {
-          "instance": null,
-          "key": undefined,
-          "nodeType": "host",
-          "props": Object {
-            "children": Array [
-              <li
-                className="green"
->
-                2012
-                : 
-                1
-</li>,
-              <li
-                className="green"
->
-                2013
-                : 
-                1
-</li>,
-              <li
-                className="red"
->
-                2014
-                : 
-                0
-</li>,
-              <li
-                className="green"
->
-                2015
-                : 
-                0.552
-</li>,
-            ],
-          },
-          "ref": null,
-          "rendered": Array [
-            Object {
-              "instance": null,
-              "key": "0.39799089779913155",
-              "nodeType": "host",
-              "props": Object {
-                "children": Array [
-                  "2012",
-                  ": ",
-                  1,
-                ],
-                "className": "green",
-              },
-              "ref": null,
-              "rendered": Array [
-                "2012",
-                ": ",
-                1,
-              ],
-              "type": "li",
-            },
-            Object {
-              "instance": null,
-              "key": "0.17214374330500548",
-              "nodeType": "host",
-              "props": Object {
-                "children": Array [
-                  "2013",
-                  ": ",
-                  1,
-                ],
-                "className": "green",
-              },
-              "ref": null,
-              "rendered": Array [
-                "2013",
-                ": ",
-                1,
-              ],
-              "type": "li",
-            },
-            Object {
-              "instance": null,
-              "key": "0.2734352943223797",
-              "nodeType": "host",
-              "props": Object {
-                "children": Array [
-                  "2014",
-                  ": ",
-                  0,
-                ],
-                "className": "red",
-              },
-              "ref": null,
-              "rendered": Array [
-                "2014",
-                ": ",
-                0,
-              ],
-              "type": "li",
-            },
-            Object {
-              "instance": null,
-              "key": "0.20754204871294846",
-              "nodeType": "host",
-              "props": Object {
-                "children": Array [
-                  "2015",
-                  ": ",
-                  0.552,
-                ],
-                "className": "green",
-              },
-              "ref": null,
-              "rendered": Array [
-                "2015",
-                ": ",
-                0.552,
-              ],
-              "type": "li",
-            },
-          ],
-          "type": "ul",
-        },
-      ],
-      "type": "div",
-    },
-  ],
-  Symbol(enzyme.__options__): Object {
-    "adapter": ReactSixteenAdapter {
-      "options": Object {
-        "enableComponentDidUpdateOnSetState": true,
-        "lifecycles": Object {
-          "componentDidUpdate": Object {
-            "onSetState": true,
-          },
-          "getDerivedStateFromProps": true,
-          "getSnapshotBeforeUpdate": true,
-          "setState": Object {
-            "skipsComponentDidUpdateOnNullish": true,
-          },
-        },
-      },
-    },
-  },
-}
+  <h1>
+    COLORADO
+  </h1>
+  <ul>
+    <li
+      className="green"
+      key="0.42545413374842433"
+    >
+      2012
+      : 
+      1
+    </li>
+    <li
+      className="green"
+      key="0.4497236076344424"
+    >
+      2013
+      : 
+      1
+    </li>
+    <li
+      className="red"
+      key="0.6688296061781627"
+    >
+      2014
+      : 
+      0
+    </li>
+    <li
+      className="green"
+      key="0.02770005945480003"
+    >
+      2015
+      : 
+      0.552
+    </li>
+  </ul>
+</div>
 `;
