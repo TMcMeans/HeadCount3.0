@@ -2,17 +2,28 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 import './CardContainer.css';
-import Card from './Card';
+import { Card } from './Card';
 
-export const CardContainer = ({ findAllMatches, handleCompareSelections }) => {
+export const CardContainer = ({
+  findAllMatches,
+  handleCompareSelections,
+  compareSchoolSelections
+}) => {
   const schoolData = findAllMatches();
-  const schoolCards = schoolData.map(school => (
-    <Card
-      {...school}
-      key={Math.random()}
-      handleCompareSelections={handleCompareSelections}
-    />
-  ));
+  const schoolCards = schoolData.map(school => {
+    return (
+      <Card
+        className={
+          compareSchoolSelections.includes(school.location)
+            ? 'card card-active'
+            : 'card'
+        }
+        {...school}
+        key={Math.random()}
+        handleCompareSelections={handleCompareSelections}
+      />
+    );
+  });
   return <div className="card-container">{schoolCards}</div>;
 };
 

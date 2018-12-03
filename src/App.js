@@ -71,6 +71,7 @@ class App extends Component {
           <CardContainer
             findAllMatches={() => findAllMatches(inputSearchName)}
             handleCompareSelections={this.handleCompareSelections}
+            compareSchoolSelections={compareSchoolSelections}
           />
         </div>
       );
@@ -95,6 +96,7 @@ class App extends Component {
           <CardContainer
             findAllMatches={findAllMatches}
             handleCompareSelections={this.handleCompareSelections}
+            compareSchoolSelections={compareSchoolSelections}
           />
         </div>
       );
