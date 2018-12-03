@@ -6,7 +6,7 @@ exports[`Compare Card Container should match snapshot with all html elements ren
 >
   <Component
     className="compare-card"
-    key="0.5421367588909893"
+    key="0.4746523506848903"
     location="ADAMS COUNTY 14"
     removeCompareSelections={[Function]}
     stats={
@@ -36,7 +36,9 @@ exports[`Compare Card Container should match snapshot with all html elements ren
       : 
       0.709
     </h1>
-    <h1>
+    <h1
+      className="compared"
+    >
       COMPARED: 
       <br />
       ---- 
@@ -51,7 +53,7 @@ exports[`Compare Card Container should match snapshot with all html elements ren
   </div>
   <Component
     className="compare-card"
-    key="0.8034133564429065"
+    key="0.7812371144401371"
     location="COLORADO"
     removeCompareSelections={[Function]}
     stats={

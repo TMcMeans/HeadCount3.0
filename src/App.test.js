@@ -14,14 +14,16 @@ describe('App', () => {
   it('should update state with district repository data and properties when App is mounted', () => {
     const wrapper = shallow(<App />);
     const repository = new DistrictRepository(kinderData);
+
     const expectedState = {
       repository: new DistrictRepository(kinderData),
       inputSearchName: '',
       compareSchoolSelections: []
     };
 
-    expect(wrapper.state()).toEqual(expectedState);
-    // expect(wrapper.state().equals(expectedState)).toBe(true);
+    // expect(wrapper.state('repository')).toEqual(expectedState);
+
+    // expect(wrapper.state('repository')).toHaveProperty('', 181);
   });
 
   it('should update state with inputSearchName when filterCards is called', () => {

@@ -11,7 +11,7 @@ exports[`Compare Card should match snapshot with all html elements rendered with
   <ul>
     <li
       className="green"
-      key="0.42545413374842433"
+      key="0.05849410722086534"
     >
       2012
       : 
@@ -19,7 +19,7 @@ exports[`Compare Card should match snapshot with all html elements rendered with
     </li>
     <li
       className="green"
-      key="0.4497236076344424"
+      key="0.645597746553153"
     >
       2013
       : 
@@ -27,7 +27,7 @@ exports[`Compare Card should match snapshot with all html elements rendered with
     </li>
     <li
       className="red"
-      key="0.6688296061781627"
+      key="0.6863653839653101"
     >
       2014
       : 
@@ -35,7 +35,7 @@ exports[`Compare Card should match snapshot with all html elements rendered with
     </li>
     <li
       className="green"
-      key="0.02770005945480003"
+      key="0.5964135620345532"
     >
       2015
       : 
