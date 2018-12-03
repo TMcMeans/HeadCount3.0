@@ -7,3 +7,10 @@
   margin: 0 auto 50px auto;
   padding-bottom: 10px;
 }
+
+.compared {
+  border: 1px solid #4a314d;
+  padding: 20px 0px 20px 0px;
+  background: #4a314d;
+  color: #f0af4d;
+}
