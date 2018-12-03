@@ -44,6 +44,11 @@
   background: #f0af4d;
 }
 
+.card-active {
+  background: #f0af4d;
+  border: 1px solid #f0af4d;
+}
+
 ul {
   list-style: none;
   display: flex;
